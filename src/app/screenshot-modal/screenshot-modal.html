@@ -1,0 +1,25 @@
+<div class="modal-backdrop" (click)="closeModal()"></div>
+
+<div class="modal-content">
+    
+  <button class="close-btn" (click)="closeModal()">✕</button>
+
+  <h2>Want</h2>
+  <div class="plushie-list">
+    <div class="plushie-item" *ngFor="let p of wantPlushies">
+      <img [src]="'assets/images/' + p.image" [alt]="p.name" />
+      <span class="quantity" *ngIf="p.quantity && p.quantity > 1">{{ p.quantity }}x</span>
+      <p>{{ p.name }}</p>
+    </div>
+  </div>
+
+  <h2>Have</h2>
+  <div class="plushie-list">
+    <div class="plushie-item" *ngFor="let p of havePlushies">
+      <img [src]="'assets/images/' + p.image" [alt]="p.name" />
+      <span class="quantity" *ngIf="p.quantity && p.quantity > 1">{{ p.quantity }}x</span>
+      <p>{{ p.name }}</p>
+    </div>
+  </div>
+
+</div>

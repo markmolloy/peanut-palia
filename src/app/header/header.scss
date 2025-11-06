@@ -1,0 +1,21 @@
+.header {
+  position: sticky;
+  top: 0;
+  background-color: #1f1f1f;
+  padding: 0.2rem 1rem;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  z-index: 100;
+  box-shadow: 0 2px 6px rgba(0,0,0,0.7);
+  border-bottom: 2px solid var(--accent-color);;
+
+  .screenshot-btn {
+    background-color: #0ea5e9; // blue for screenshot
+    color: #fff;
+    &:hover { background-color: #0284c7; }
+  }
+  img {
+    width: 40px;
+  }
+}

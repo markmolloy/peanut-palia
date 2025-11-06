@@ -1,0 +1,13 @@
+<div *ngFor="let category of (organizedPlushies | keyvalue)">
+  <h2 class="category-title">{{ category.key }}</h2>
+
+  <div *ngFor="let sub of (category.value | keyvalue)">
+    <h3 class="subcategory-title">{{ sub.key }}</h3>
+    <div class="plushie-grid">
+      <app-plushie-card
+        *ngFor="let plushie of sub.value"
+        [plushie]="plushie"
+      ></app-plushie-card>
+    </div>
+  </div>
+</div>
