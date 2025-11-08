@@ -15,39 +15,38 @@ import { CommonModule } from '@angular/common';
 })
 export class App implements OnInit {
   plushies: Plushie[] = [];
+isScreenshotOpen = false;
 
-  isScreenshotOpen = false;
+ngOnInit() {
+  const data = plushieData as Plushie[];
+  const organized = new Map<string, Set<string>>();
 
-  ngOnInit() {
-    const data = plushieData as any[];
-    const organized = new Map<string, Set<string>>();
+  // Collect unique categories/subcategories
+  data.forEach(p => {
+    if (!organized.has(p.category)) organized.set(p.category, new Set());
+    organized.get(p.category)?.add(p.subcategory);
+  });
 
-    // Collect unique categories/subcategories
-    data.forEach(p => {
-      if (!organized.has(p.category)) organized.set(p.category, new Set());
-      organized.get(p.category)?.add(p.subcategory);
+  // Push all original plushies
+  this.plushies = [...data];
+
+  // Add “Any” cards at source level
+  let anyIdCounter = 69000;
+  organized.forEach((subcats, category) => {
+    subcats.forEach(subcategory => {
+      const anyCard: Plushie = {
+        category,
+        subcategory,
+        name: `Any (${subcategory})`,
+        status: null,
+        quantity: 1,
+        image: 'peanington.png',
+        id: anyIdCounter++,
+      };
+      this.plushies.unshift(anyCard); // Add to the start of the array
     });
-
-    // Push all original plushies
-    this.plushies = [...data];
-
-    console.log('Organized Plushies:', organized);
-    // Add “Any” cards at source level
-    let anyIdCounter = 69000;
-    organized.forEach((subcats, category) => {
-      subcats.forEach(subcategory => {
-        this.plushies.push({
-          name: 'Any',
-          category,
-          subcategory,
-          quantity: 1,
-          status: null,
-          image: 'assets/images/any.png',
-          id: anyIdCounter++
-        });
-      });
-    });
-  }
+  });
+}
 
   get havePlushies(): Plushie[] {
     return this.plushies.filter(p => p.status === 'have');
@@ -61,3 +60,6 @@ export class App implements OnInit {
     this.isScreenshotOpen = true;
   }
 }
+
+// Add "Any" card at start of each subcategory
+    // 

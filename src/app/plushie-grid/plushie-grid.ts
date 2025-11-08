@@ -53,6 +53,7 @@ export class PlushieGridComponent implements OnInit {
 
   ngOnInit() {
     this.organizedPlushies = {};
+    console.log(this.plushies)
 
     // Organize plushies
     this.plushies.forEach(plushie => {
@@ -71,21 +72,6 @@ export class PlushieGridComponent implements OnInit {
       this.organizedPlushies[plushie.category][plushie.subcategory].push(plushie);
     });
 
-    // Add "Any" card at start of each subcategory
-    // let anyIdCounter = 69000;
-    // Object.keys(this.organizedPlushies).forEach(category => {
-    //   Object.keys(this.organizedPlushies[category]).forEach(subcategory => {
-    //     const anyCard: Plushie = {
-    //       category,
-    //       subcategory,
-    //       name: 'Any (' + subcategory + ')',  
-    //       status: null,
-    //       quantity: 1,
-    //       image: 'peanington.png',
-    //       id: anyIdCounter++
-    //     };
-    //     this.organizedPlushies[category][subcategory].unshift(anyCard);
-    //   });
-    // });
+    
   }
 }
