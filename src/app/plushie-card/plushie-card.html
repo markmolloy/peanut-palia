@@ -2,26 +2,28 @@
   <img [src]="'assets/images/' + plushie.image" alt="{{ plushie.name }}" />
   <div class="name">{{ plushie.name }}</div>
 
-  <div class="buttons">
-    <button
-      [class.have]="plushie.status === 'have'"
-      [class.inactive]="plushie.status !== 'have'"
-      (click)="toggleStatus('have')"
-    >
-      Have
-    </button>
-    <button
-      [class.want]="plushie.status === 'want'"
-      [class.inactive]="plushie.status !== 'want'"
-      (click)="toggleStatus('want')"
-    >
-      Want
-    </button>
-  </div>
+  <div class="controls">
+    <div class="quantity">
+      <button (click)="decreaseQuantity()">-</button>
+      <input type="number" [value]="plushie.quantity" readonly />
+      <button (click)="increaseQuantity()">+</button>
+    </div>
 
-  <div class="quantity">
-    <button (click)="decreaseQuantity()">-</button>
-    <input type="number" [value]="plushie.quantity" readonly />
-    <button (click)="increaseQuantity()">+</button>
+    <div class="buttons">
+      <button
+        [class.have]="plushie.status === 'have'"
+        [class.inactive]="plushie.status !== 'have'"
+        (click)="toggleStatus('have')"
+      >
+        Have
+      </button>
+      <button
+        [class.want]="plushie.status === 'want'"
+        [class.inactive]="plushie.status !== 'want'"
+        (click)="toggleStatus('want')"
+      >
+        Want
+      </button>
+    </div>
   </div>
 </div>

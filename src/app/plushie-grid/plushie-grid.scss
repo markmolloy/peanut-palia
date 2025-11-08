@@ -2,9 +2,11 @@
   display: grid;
   grid-template-columns: repeat(3, 1fr);
   gap: 1rem;
+  padding: 0 0.5rem; // <-- light horizontal padding
 
   @media (max-width: 768px) {
     grid-template-columns: 1fr;
+    padding: 0 0.5rem; // maintain padding on mobile
   }
 
   .column {

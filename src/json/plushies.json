@@ -1,11 +1,5 @@
 [
   {
-    "id": 0,
-    "name": "Any",
-    "category": "Potato Pods",
-    "image": "any-shiny.webp"
-  },
-  {
     "id": 1,
     "name": "Prissy",
     "category": "Potato Pods",
@@ -66,12 +60,6 @@
     "image": "patch.webp"
   },
   {
-    "id": 11,
-    "name": "Any",
-    "category": "Potato Pods",
-    "image": "any-potato.webp"
-  },
-  {
     "id": 12,
     "name": "Junior",
     "category": "Potato Pods",
@@ -100,12 +88,6 @@
     "name": "Prickly",
     "category": "Potato Pods",
     "image": "prickly.webp"
-  },
-  {
-    "id": 17,
-    "name": "Any",
-    "category": "Potato Pods",
-    "image": "any-rocker.webp"
   },
   {
     "id": 18,
@@ -150,12 +132,6 @@
     "image": "gerard.webp"
   },
   {
-    "id": 25,
-    "name": "Any",
-    "category": "Potato Pods",
-    "image": "any-pretty.webp"
-  },
-  {
     "id": 26,
     "name": "Cosmo",
     "category": "Potato Pods",
@@ -178,12 +154,6 @@
     "name": "Priscilla",
     "category": "Potato Pods",
     "image": "priscilla.webp"
-  },
-  {
-    "id": 30,
-    "name": "Any",
-    "category": "Potato Pods",
-    "image": "any-mer.webp"
   },
   {
     "id": 31,
@@ -210,12 +180,6 @@
     "image": "jelly.webp"
   },
   {
-    "id": 35,
-    "name": "Any",
-    "category": "Potato Pods",
-    "image": "any-bonsai.webp"
-  },
-  {
     "id": 36,
     "name": "Ardbert",
     "category": "Potato Pods",
@@ -238,12 +202,6 @@
     "name": "Myrtle",
     "category": "Potato Pods",
     "image": "myrtle.webp"
-  },
-  {
-    "id": 40,
-    "name": "Any",
-    "category": "Potato Pods",
-    "image": "any-mush.webp"
   },
   {
     "id": 41,
@@ -874,12 +832,6 @@
     "name": "Rainbow Maji",
     "category": "Maji Market",
     "image": "rainbow-maji-plush.webp"
-  },
-  {
-    "id": 146,
-    "name": "Any",
-    "category": "Maji Market",
-    "image": "clawmachine.webp"
   },
   {
     "id": 147,
