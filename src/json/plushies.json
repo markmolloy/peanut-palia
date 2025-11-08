@@ -3,1085 +3,1188 @@
     "id": 0,
     "name": "Any",
     "category": "Potato Pods",
-    "subcategory": "Shiny Pod",
-    "image": "0.webp"
+    "image": "any-shiny.webp"
   },
   {
     "id": 1,
     "name": "Prissy",
     "category": "Potato Pods",
-    "subcategory": "Shiny Pod",
-    "image": "1.webp"
+    "image": "prissy.webp"
   },
   {
     "id": 2,
     "name": "Cyrus",
     "category": "Potato Pods",
-    "subcategory": "Shiny Pod",
-    "image": "2.webp"
+    "image": "cyrus.webp"
   },
   {
     "id": 3,
     "name": "Goldie",
     "category": "Potato Pods",
-    "subcategory": "Shiny Pod",
-    "image": "3.webp"
+    "image": "goldie.webp"
   },
   {
     "id": 4,
     "name": "Maggie",
     "category": "Potato Pods",
-    "subcategory": "Shiny Pod",
-    "image": "4.webp"
+    "image": "maggie.webp"
   },
   {
     "id": 5,
     "name": "Eliot",
     "category": "Potato Pods",
-    "subcategory": "Shiny Pod",
-    "image": "5.webp"
+    "image": "eliot.webp"
   },
   {
     "id": 6,
     "name": "Rainer",
     "category": "Potato Pods",
-    "subcategory": "Shiny Pod",
-    "image": "6.webp"
+    "image": "rainer.webp"
   },
   {
     "id": 7,
     "name": "Zenni",
     "category": "Potato Pods",
-    "subcategory": "Shiny Pod",
-    "image": "7.webp"
+    "image": "zenni.webp"
   },
   {
     "id": 8,
     "name": "Lazlo",
     "category": "Potato Pods",
-    "subcategory": "Shiny Pod",
-    "image": "8.webp"
+    "image": "lazlo.webp"
   },
   {
     "id": 9,
     "name": "Cappie",
     "category": "Potato Pods",
-    "subcategory": "Shiny Pod",
-    "image": "9.webp"
+    "image": "cappie.webp"
   },
   {
     "id": 10,
     "name": "Patch",
     "category": "Potato Pods",
-    "subcategory": "Shiny Pod",
-    "image": "10.webp"
+    "image": "patch.webp"
   },
   {
     "id": 11,
     "name": "Any",
     "category": "Potato Pods",
-    "subcategory": "Potato Pod",
-    "image": "11.webp"
+    "image": "any-potato.webp"
   },
   {
     "id": 12,
     "name": "Junior",
     "category": "Potato Pods",
-    "subcategory": "Potato Pod",
-    "image": "12.webp"
+    "image": "junior.webp"
   },
   {
     "id": 13,
     "name": "Mo",
     "category": "Potato Pods",
-    "subcategory": "Potato Pod",
-    "image": "13.webp"
+    "image": "mo.webp"
   },
   {
     "id": 14,
     "name": "Whirly",
     "category": "Potato Pods",
-    "subcategory": "Potato Pod",
-    "image": "14.webp"
+    "image": "whirly.webp"
   },
   {
     "id": 15,
     "name": "Shaggy",
     "category": "Potato Pods",
-    "subcategory": "Potato Pod",
-    "image": "15.webp"
+    "image": "shaggy.webp"
   },
   {
     "id": 16,
     "name": "Prickly",
     "category": "Potato Pods",
-    "subcategory": "Potato Pod",
-    "image": "16.webp"
+    "image": "prickly.webp"
   },
   {
     "id": 17,
     "name": "Any",
     "category": "Potato Pods",
-    "subcategory": "Rocker Pod",
-    "image": "17.webp"
+    "image": "any-rocker.webp"
   },
   {
     "id": 18,
     "name": "Axel",
     "category": "Potato Pods",
-    "subcategory": "Rocker Pod",
-    "image": "18.webp"
+    "image": "axel.webp"
   },
   {
     "id": 19,
     "name": "Gene",
     "category": "Potato Pods",
-    "subcategory": "Rocker Pod",
-    "image": "19.webp"
+    "image": "gene.webp"
   },
   {
     "id": 20,
     "name": "Hendrix",
     "category": "Potato Pods",
-    "subcategory": "Rocker Pod",
-    "image": "20.webp"
+    "image": "hendrix.webp"
   },
   {
     "id": 21,
     "name": "Jovi",
     "category": "Potato Pods",
-    "subcategory": "Rocker Pod",
-    "image": "21.webp"
+    "image": "jovi.webp"
   },
   {
     "id": 22,
     "name": "Leif",
     "category": "Potato Pods",
-    "subcategory": "Rocker Pod",
-    "image": "22.webp"
+    "image": "leif.webp"
   },
   {
     "id": 23,
     "name": "Momo",
     "category": "Potato Pods",
-    "subcategory": "Rocker Pod",
-    "image": "23.webp"
+    "image": "momo.webp"
   },
   {
     "id": 24,
     "name": "Gerard",
     "category": "Potato Pods",
-    "subcategory": "Rocker Pod",
-    "image": "24.webp"
+    "image": "gerard.webp"
   },
   {
     "id": 25,
     "name": "Any",
     "category": "Potato Pods",
-    "subcategory": "Pretty Pod",
-    "image": "25.webp"
+    "image": "any-pretty.webp"
   },
   {
     "id": 26,
     "name": "Cosmo",
     "category": "Potato Pods",
-    "subcategory": "Pretty Pod",
-    "image": "26.webp"
+    "image": "cosmo.webp"
   },
   {
     "id": 27,
     "name": "Dorian",
     "category": "Potato Pods",
-    "subcategory": "Pretty Pod",
-    "image": "27.webp"
+    "image": "dorian.webp"
   },
   {
     "id": 28,
     "name": "Dandy",
     "category": "Potato Pods",
-    "subcategory": "Pretty Pod",
-    "image": "28.webp"
+    "image": "dandy.webp"
   },
   {
     "id": 29,
     "name": "Priscilla",
     "category": "Potato Pods",
-    "subcategory": "Pretty Pod",
-    "image": "29.webp"
+    "image": "priscilla.webp"
   },
   {
     "id": 30,
     "name": "Any",
     "category": "Potato Pods",
-    "subcategory": "Mer Pod",
-    "image": "30.webp"
+    "image": "any-mer.webp"
   },
   {
     "id": 31,
     "name": "Kelpie",
     "category": "Potato Pods",
-    "subcategory": "Mer Pod",
-    "image": "31.webp"
+    "image": "kelpie.webp"
   },
   {
     "id": 32,
     "name": "Ariel",
     "category": "Potato Pods",
-    "subcategory": "Mer Pod",
-    "image": "32.webp"
+    "image": "ariel.webp"
   },
   {
     "id": 33,
     "name": "Nori",
     "category": "Potato Pods",
-    "subcategory": "Mer Pod",
-    "image": "33.webp"
+    "image": "nori.webp"
   },
   {
     "id": 34,
     "name": "Jelly",
     "category": "Potato Pods",
-    "subcategory": "Mer Pod",
-    "image": "34.webp"
+    "image": "jelly.webp"
   },
   {
     "id": 35,
     "name": "Any",
     "category": "Potato Pods",
-    "subcategory": "Bonsai Pod",
-    "image": "35.webp"
+    "image": "any-bonsai.webp"
   },
   {
     "id": 36,
     "name": "Ardbert",
     "category": "Potato Pods",
-    "subcategory": "Bonsai Pod",
-    "image": "36.webp"
+    "image": "ardbert.webp"
   },
   {
     "id": 37,
     "name": "Ashe",
     "category": "Potato Pods",
-    "subcategory": "Bonsai Pod",
-    "image": "37.webp"
+    "image": "ashe.webp"
   },
   {
     "id": 38,
     "name": "Autumn",
     "category": "Potato Pods",
-    "subcategory": "Bonsai Pod",
-    "image": "38.webp"
+    "image": "autumn.webp"
   },
   {
     "id": 39,
     "name": "Myrtle",
     "category": "Potato Pods",
-    "subcategory": "Bonsai Pod",
-    "image": "39.webp"
+    "image": "myrtle.webp"
   },
   {
     "id": 40,
     "name": "Any",
     "category": "Potato Pods",
-    "subcategory": "Mush Pod",
-    "image": "40.webp"
+    "image": "any-mush.webp"
   },
   {
     "id": 41,
     "name": "Hopper",
     "category": "Potato Pods",
-    "subcategory": "Mush Pod",
-    "image": "41.webp"
+    "image": "hopper.webp"
   },
   {
     "id": 42,
     "name": "Sunny",
     "category": "Potato Pods",
-    "subcategory": "Mush Pod",
-    "image": "42.webp"
+    "image": "sunny.webp"
   },
   {
     "id": 43,
     "name": "Bluebell",
     "category": "Potato Pods",
-    "subcategory": "Mush Pod",
-    "image": "43.webp"
+    "image": "bluebell.webp"
   },
   {
     "id": 44,
     "name": "Port",
     "category": "Potato Pods",
-    "subcategory": "Mush Pod",
-    "image": "44.webp"
+    "image": "port.webp"
   },
   {
     "id": 45,
     "name": "Regular",
     "category": "Hunting",
-    "subcategory": "Sernuk",
-    "image": "45.webp"
+    "image": "sernuk-regular.webp"
   },
   {
     "id": 46,
     "name": "Proudhorned",
     "category": "Hunting",
-    "subcategory": "Sernuk",
-    "image": "46.webp"
+    "image": "sernuk-proud.webp"
   },
   {
     "id": 47,
     "name": "Elder",
     "category": "Hunting",
-    "subcategory": "Sernuk",
-    "image": "47.webp"
+    "image": "sernuk-elder.webp"
   },
   {
     "id": 48,
     "name": "Regular",
     "category": "Hunting",
-    "subcategory": "Chapaa",
-    "image": "48.webp"
+    "image": "chapaa-regular.webp"
   },
   {
     "id": 49,
     "name": "Striped",
     "category": "Hunting",
-    "subcategory": "Chapaa",
-    "image": "49.webp"
+    "image": "chapaa-striped.webp"
   },
   {
     "id": 50,
     "name": "Azure",
     "category": "Hunting",
-    "subcategory": "Chapaa",
-    "image": "50.webp"
+    "image": "chapaa-azure.webp"
   },
   {
     "id": 51,
     "name": "Regular",
     "category": "Hunting",
-    "subcategory": "Muujin",
-    "image": "51.webp"
+    "image": "muujin-regular.webp"
   },
   {
     "id": 52,
     "name": "Banded",
     "category": "Hunting",
-    "subcategory": "Muujin",
-    "image": "52.webp"
+    "image": "muujin-banded.webp"
   },
   {
     "id": 53,
     "name": "Bluebristle",
     "category": "Hunting",
-    "subcategory": "Muujin",
-    "image": "53.webp"
+    "image": "muujin-bluebristle.webp"
   },
   {
     "id": 54,
     "name": "Regular",
     "category": "Hunting",
-    "subcategory": "Ogopuu",
-    "image": "54.webp"
+    "image": "ogopuu-regular.webp"
   },
   {
     "id": 55,
     "name": "Emerald",
     "category": "Hunting",
-    "subcategory": "Ogopuu",
-    "image": "55.webp"
+    "image": "ogopuu-emerald.webp"
   },
   {
     "id": 56,
     "name": "Waveback",
     "category": "Hunting",
-    "subcategory": "Ogopuu",
-    "image": "56.webp"
+    "image": "ogopuu-waveback.webp"
   },
   {
     "id": 57,
     "name": "Regular",
     "category": "Hunting",
-    "subcategory": "Shmole",
-    "image": "57.webp"
+    "image": "shmole-regular.webp"
   },
   {
     "id": 58,
     "name": "Elder",
     "category": "Hunting",
-    "subcategory": "Shmole",
-    "image": "58.webp"
+    "image": "shmole-elder.webp"
   },
   {
     "id": 59,
     "name": "Piksii",
     "category": "Hunting",
-    "subcategory": "Shmole",
-    "image": "59.webp"
+    "image": "shmole-piksii.webp"
   },
   {
     "id": 60,
     "name": "Grumpy Granite",
     "category": "Hunting",
-    "subcategory": "Rockhoppers",
-    "image": "60.webp"
+    "image": "rockhopper-grumpy-granite.webp"
   },
   {
     "id": 61,
     "name": "Flame-Horned",
     "category": "Hunting",
-    "subcategory": "Rockhoppers",
-    "image": "61.webp"
+    "image": "rockhopper-flame-horned.webp"
   },
   {
     "id": 62,
     "name": "Will-o-Wisp",
     "category": "Hunting",
-    "subcategory": "Rockhoppers",
-    "image": "62.webp"
+    "image": "rockhopper-will-o-wisp.webp"
   },
   {
     "id": 63,
     "name": "Plushie Pool",
     "category": "Other",
-    "subcategory": "Buyable In-Game",
-    "image": "63.webp"
+    "image": "plushie-pool.webp"
   },
   {
     "id": 64,
-    "name": "Toadstool",
+    "name": "Kilima Catfish",
     "category": "Fishing",
-    "subcategory": "Floatfish",
-    "image": "64.webp"
+    "image": "kilima-catfish.webp"
   },
   {
     "id": 65,
-    "name": "Midnight",
+    "name": "Mudminnow",
     "category": "Fishing",
-    "subcategory": "Floatfish",
-    "image": "65.webp"
+    "image": "mudminnow.webp"
   },
   {
     "id": 66,
-    "name": "Piksii",
+    "name": "Red Koi",
     "category": "Fishing",
-    "subcategory": "Floatfish",
-    "image": "66.webp"
+    "image": "red-koi.webp"
   },
   {
     "id": 67,
-    "name": "First",
-    "category": "Twitch / Login Rewards",
-    "subcategory": "Anniversary",
-    "image": "67.webp"
+    "name": "Yellow Koi",
+    "category": "Fishing",
+    "image": "yellow-koi.webp"
   },
   {
     "id": 68,
-    "name": "Second",
-    "category": "Twitch / Login Rewards",
-    "subcategory": "Anniversary",
-    "image": "68.webp"
+    "name": "Prismfish",
+    "category": "Fishing",
+    "image": "prismfish.webp"
   },
   {
     "id": 69,
-    "name": "Leafy",
-    "category": "Twitch / Login Rewards",
-    "subcategory": "Flutter Fox",
-    "image": "69.webp"
+    "name": "River Shark",
+    "category": "Fishing",
+    "image": "river-shark.webp"
   },
   {
     "id": 70,
-    "name": "Spring",
-    "category": "Twitch / Login Rewards",
-    "subcategory": "Flutter Fox",
-    "image": "70.webp"
+    "name": "River Shark Fin",
+    "category": "Fishing",
+    "image": "river-shark-fin.webp"
   },
   {
     "id": 71,
-    "name": "Winter",
-    "category": "Twitch / Login Rewards",
-    "subcategory": "Flutter Fox",
-    "image": "71.webp"
+    "name": "River Shark Fin XL",
+    "category": "Fishing",
+    "image": "river-shark-fin-xl.webp"
   },
   {
     "id": 72,
-    "name": "Summer",
-    "category": "Twitch / Login Rewards",
-    "subcategory": "Flutter Fox",
-    "image": "72.webp"
+    "name": "Elder Shark",
+    "category": "Fishing",
+    "image": "elder-shark.webp"
   },
   {
     "id": 73,
-    "name": "Fall",
-    "category": "Twitch / Login Rewards",
-    "subcategory": "Flutter Fox",
-    "image": "73.webp"
+    "name": "Elder Shark Fin",
+    "category": "Fishing",
+    "image": "elder-shark-fin.webp"
   },
   {
     "id": 74,
-    "name": "Sandi The Palcat",
-    "category": "Twitch / Login Rewards",
-    "subcategory": "Palcat",
-    "image": "74.webp"
+    "name": "Toadstool",
+    "category": "Fishing",
+    "image": "floatfish-toadstool.webp"
   },
   {
     "id": 75,
-    "name": "Nox The Palcat",
-    "category": "Twitch / Login Rewards",
-    "subcategory": "Palcat",
-    "image": "75.webp"
+    "name": "Midnight",
+    "category": "Fishing",
+    "image": "floatfish-midnight.webp"
   },
   {
     "id": 76,
-    "name": "Arctic Palcat",
-    "category": "Twitch / Login Rewards",
-    "subcategory": "Palcat",
-    "image": "76.webp"
+    "name": "Piksii",
+    "category": "Fishing",
+    "image": "floatfish-piksii.webp"
   },
   {
     "id": 77,
-    "name": "Island Palcat",
-    "category": "Twitch / Login Rewards",
-    "subcategory": "Palcat",
-    "image": "77.webp"
+    "name": "Lunar Fairy Moth",
+    "category": "Bug Catching",
+    "image": "bug-fairy-moth.webp"
   },
   {
     "id": 78,
-    "name": "Big Frogbert",
-    "category": "Twitch / Login Rewards",
-    "subcategory": "Frogbert",
-    "image": "78.webp"
+    "name": "Garden Ladybug Plush",
+    "category": "Bug Catching",
+    "image": "bug-garden-ladybug.webp"
   },
   {
     "id": 79,
-    "name": "Bigger Frogbert",
-    "category": "Twitch / Login Rewards",
-    "subcategory": "Frogbert",
-    "image": "79.webp"
+    "name": "Proudhorned Beetle Plush",
+    "category": "Bug Catching",
+    "image": "bug-proudhorned-beetle.webp"
   },
   {
     "id": 80,
-    "name": "Giant Frogbert",
-    "category": "Twitch / Login Rewards",
-    "subcategory": "Frogbert",
-    "image": "80.webp"
+    "name": "Lantern Bug Plush",
+    "category": "Bug Catching",
+    "image": "bug-lantern.webp"
   },
   {
     "id": 81,
-    "name": "Giga Frogbert",
-    "category": "Twitch / Login Rewards",
-    "subcategory": "Frogbert",
-    "image": "81.webp"
+    "name": "Garden Snail Plush",
+    "category": "Bug Catching",
+    "image": "garden-snail-plush.webp"
   },
   {
     "id": 82,
-    "name": "Nibbles The Drake",
-    "category": "Twitch / Login Rewards",
-    "subcategory": "Other",
-    "image": "82.webp"
+    "name": "Rainbow Tipped Butterfly Plush",
+    "category": "Bug Catching",
+    "image": "rainbow-tipped-butterfly.webp"
   },
   {
     "id": 83,
-    "name": "Giant Honeybunch Plush",
-    "category": "Twitch / Login Rewards",
-    "subcategory": "Other",
-    "image": "83.webp"
+    "name": "Duskwing Butterfly",
+    "category": "Bug Catching",
+    "image": "bug-duskwing-butterfly.webp"
   },
   {
     "id": 84,
-    "name": "Palcat",
+    "name": "First",
     "category": "Twitch / Login Rewards",
-    "subcategory": "Stackable Pillow",
-    "image": "84.webp"
+    "image": "anniversary-1.webp"
   },
   {
     "id": 85,
-    "name": "Muujin",
+    "name": "Second",
     "category": "Twitch / Login Rewards",
-    "subcategory": "Stackable Pillow",
-    "image": "85.webp"
+    "image": "anniversary-2.webp"
   },
   {
     "id": 86,
-    "name": "Chapaa",
+    "name": "Leafy",
     "category": "Twitch / Login Rewards",
-    "subcategory": "Stackable Pillow",
-    "image": "86.webp"
+    "image": "flutterfox-leafy.webp"
   },
   {
     "id": 87,
-    "name": "Fun Guy Plush",
-    "category": "Maji Market",
-    "subcategory": "Chaapa Hut",
-    "image": "87.webp"
+    "name": "Spring",
+    "category": "Twitch / Login Rewards",
+    "image": "flutterfox-spring.webp"
   },
   {
     "id": 88,
-    "name": "Embra Plush",
-    "category": "Maji Market",
-    "subcategory": "Chaapa Hut",
-    "image": "88.webp"
+    "name": "Winter",
+    "category": "Twitch / Login Rewards",
+    "image": "flutterfox-winter.webp"
   },
   {
     "id": 89,
-    "name": "Maji Plush",
-    "category": "Maji Market",
-    "subcategory": "Chaapa Hut",
-    "image": "89.webp"
+    "name": "Summer",
+    "category": "Twitch / Login Rewards",
+    "image": "flutterfox-summer.webp"
   },
   {
     "id": 90,
-    "name": "Mini Maji Plush",
-    "category": "Maji Market",
-    "subcategory": "Chaapa Hut",
-    "image": "90.webp"
+    "name": "Fall",
+    "category": "Twitch / Login Rewards",
+    "image": "flutterfox-fall.webp"
   },
   {
     "id": 91,
-    "name": "Inki Plush",
-    "category": "Maji Market",
-    "subcategory": "Chaapa Hut",
-    "image": "91.webp"
+    "name": "Sandi The Palcat",
+    "category": "Twitch / Login Rewards",
+    "image": "palcat-sandi.webp"
   },
   {
     "id": 92,
-    "name": "Naanshi Plush",
-    "category": "Maji Market",
-    "subcategory": "Chaapa Hut",
-    "image": "92.webp"
+    "name": "Nox The Palcat",
+    "category": "Twitch / Login Rewards",
+    "image": "palcat-nox.webp"
   },
   {
     "id": 93,
-    "name": "Nergaal Plush",
-    "category": "Maji Market",
-    "subcategory": "Chaapa Hut",
-    "image": "93.webp"
+    "name": "Arctic Palcat",
+    "category": "Twitch / Login Rewards",
+    "image": "arctic-palcat.webp"
   },
   {
     "id": 94,
-    "name": "Enkii Plush",
-    "category": "Maji Market",
-    "subcategory": "Chaapa Hut",
-    "image": "94.webp"
+    "name": "Island Palcat",
+    "category": "Twitch / Login Rewards",
+    "image": "island-palcat.webp"
   },
   {
     "id": 95,
-    "name": "Neena Plush",
-    "category": "Maji Market",
-    "subcategory": "Chaapa Hut",
-    "image": "95.webp"
+    "name": "Big Frogbert",
+    "category": "Twitch / Login Rewards",
+    "image": "frogbert-big.webp"
   },
   {
     "id": 96,
-    "name": "Chapaa Hut Pillow",
-    "category": "Maji Market",
-    "subcategory": "Chaapa Hut",
-    "image": "96.webp"
+    "name": "Bigger Frogbert",
+    "category": "Twitch / Login Rewards",
+    "image": "frogbert-bigger.webp"
   },
   {
     "id": 97,
-    "name": "Inki Pillow",
-    "category": "Maji Market",
-    "subcategory": "Chaapa Hut",
-    "image": "97.webp"
+    "name": "Giant Frogbert",
+    "category": "Twitch / Login Rewards",
+    "image": "frogbert-giant.webp"
   },
   {
     "id": 98,
-    "name": "Naanshi Pillow",
-    "category": "Maji Market",
-    "subcategory": "Chaapa Hut",
-    "image": "98.webp"
+    "name": "Giga Frogbert",
+    "category": "Twitch / Login Rewards",
+    "image": "frogbert-giga.webp"
   },
   {
     "id": 99,
-    "name": "Nergaal Pillow",
-    "category": "Maji Market",
-    "subcategory": "Chaapa Hut",
-    "image": "99.webp"
+    "name": "Nibbles The Drake",
+    "category": "Twitch / Login Rewards",
+    "image": "drake-nibbles.webp"
   },
   {
     "id": 100,
-    "name": "Enkii Pillow",
-    "category": "Maji Market",
-    "subcategory": "Chaapa Hut",
-    "image": "100.webp"
+    "name": "Giant Honeybunch Plush",
+    "category": "Twitch / Login Rewards",
+    "image": "lucky-honeybunch.webp"
   },
   {
     "id": 101,
-    "name": "Neena Pillow",
-    "category": "Maji Market",
-    "subcategory": "Chaapa Hut",
-    "image": "101.webp"
+    "name": "Palcat",
+    "category": "Twitch / Login Rewards",
+    "image": "stackable-palcat.webp"
   },
   {
     "id": 102,
-    "name": "Rainbow Maji",
-    "category": "Maji Market",
-    "subcategory": "Chaapa Hut",
-    "image": "102.webp"
+    "name": "Muujin",
+    "category": "Twitch / Login Rewards",
+    "image": "stackable-muujin.webp"
   },
   {
     "id": 103,
-    "name": "Any",
-    "category": "Maji Market",
-    "subcategory": "Claw Machine",
-    "image": "103.webp"
+    "name": "Chapaa",
+    "category": "Twitch / Login Rewards",
+    "image": "stackable-chapaa.webp"
   },
   {
     "id": 104,
-    "name": "Li'l Carrot",
-    "category": "Maji Market",
-    "subcategory": "Claw Machine",
-    "image": "104.webp"
+    "name": "Finding Friends Chapaa",
+    "category": "Referral Rewards",
+    "image": "referral-finding-friends-chapaa.webp"
   },
   {
     "id": 105,
-    "name": "Li'l Beetle",
-    "category": "Maji Market",
-    "subcategory": "Claw Machine",
-    "image": "105.webp"
+    "name": "Elderwood Fun Guy",
+    "category": "Referral Rewards",
+    "image": "elderwood-fun-guy.webp"
   },
   {
     "id": 106,
-    "name": "Li'l Snail",
-    "category": "Maji Market",
-    "subcategory": "Claw Machine",
-    "image": "106.webp"
+    "name": "Big Elderwood Fun Guy",
+    "category": "Referral Rewards",
+    "image": "elderwood-fun-guy-big.webp"
   },
   {
     "id": 107,
-    "name": "Li'l Froggy",
-    "category": "Maji Market",
-    "subcategory": "Claw Machine",
-    "image": "107.webp"
+    "name": "Bigger Elderwood Fun Guy",
+    "category": "Referral Rewards",
+    "image": "elderwood-fun-guy-bigger.webp"
   },
   {
     "id": 108,
-    "name": "Li'l Sernuk",
-    "category": "Maji Market",
-    "subcategory": "Claw Machine",
-    "image": "108.webp"
+    "name": "Giant Elderwood Fun Guy",
+    "category": "Referral Rewards",
+    "image": "elderwood-fun-guy-giant.webp"
   },
   {
     "id": 109,
-    "name": "Li'l Turnip",
-    "category": "Maji Market",
-    "subcategory": "Claw Machine",
-    "image": "109.webp"
+    "name": "Giga Elderwood Fun Guy",
+    "category": "Referral Rewards",
+    "image": "elderwood-fun-guy-giga.webp"
   },
   {
     "id": 110,
-    "name": "Slumber Fox",
-    "category": "Maji Market",
-    "subcategory": "Claw Machine",
-    "image": "110.webp"
+    "name": "Madrinas Maji Plush",
+    "category": "Collabs",
+    "image": "madrinas-dragonfruit.webp"
   },
   {
     "id": 111,
-    "name": "Trufflet",
-    "category": "Maji Market",
-    "subcategory": "Claw Machine",
-    "image": "111.webp"
+    "name": "Giant Chapaa",
+    "category": "Prize Wheel",
+    "image": "wheel-giant-chapaa.webp"
   },
   {
     "id": 112,
-    "name": "Cutesy Kitty",
-    "category": "Maji Market",
-    "subcategory": "Claw Machine",
-    "image": "112.webp"
+    "name": "Giant Maji",
+    "category": "Prize Wheel",
+    "image": "wheel-giant-maji.webp"
   },
   {
     "id": 113,
-    "name": "Carefully Cultivated",
-    "category": "Stickers",
-    "subcategory": "Series 1",
-    "image": "113.webp"
+    "name": "Giant Ancient Fish",
+    "category": "Prize Wheel",
+    "image": "wheel-giant-fish.webp"
   },
   {
     "id": 114,
-    "name": "Cat's Meow",
-    "category": "Stickers",
-    "subcategory": "Series 1",
-    "image": "114.webp"
+    "name": "Worn Mouse",
+    "category": "Prize Wheel",
+    "image": "wheel-worn-mouse.webp"
   },
   {
     "id": 115,
-    "name": "Choices, Choices",
-    "category": "Stickers",
-    "subcategory": "Series 1",
-    "image": "115.webp"
+    "name": "Me n' My Honeybunch Plush",
+    "category": "Lucky Balls",
+    "image": "lucky-honeybunch.webp"
   },
   {
     "id": 116,
-    "name": "Does Not Compute",
-    "category": "Stickers",
-    "subcategory": "Series 1",
-    "image": "116.webp"
+    "name": "Fun Guy Plushie",
+    "category": "Lucky Balls",
+    "image": "lucky-fun-guy.webp"
   },
   {
     "id": 117,
-    "name": "Eyyy!",
-    "category": "Stickers",
-    "subcategory": "Series 1",
-    "image": "117.webp"
+    "name": "Green Cylinder",
+    "category": "Lucky Balls",
+    "image": "lucky-green-cylinder.webp"
   },
   {
     "id": 118,
-    "name": "Fired Up!",
-    "category": "Stickers",
-    "subcategory": "Series 1",
-    "image": "118.webp"
+    "name": "Ancient Kitsuu Plush",
+    "category": "Lucky Balls",
+    "image": "lucky-ancient-kitsuu.webp"
   },
   {
     "id": 119,
-    "name": "Found It!",
-    "category": "Stickers",
-    "subcategory": "Series 1",
-    "image": "119.webp"
+    "name": "Ancient Fish Plush",
+    "category": "Lucky Balls",
+    "image": "lucky-ancient-fish.webp"
   },
   {
     "id": 120,
-    "name": "Genius!",
-    "category": "Stickers",
-    "subcategory": "Series 1",
-    "image": "120.webp"
+    "name": "Ancient Silverwing Plush",
+    "category": "Lucky Balls",
+    "image": "lucky-ancient-silverwing.webp"
   },
   {
     "id": 121,
-    "name": "Gone Fishing!",
-    "category": "Stickers",
-    "subcategory": "Series 1",
-    "image": "121.webp"
+    "name": "The Order Sernuk Plush",
+    "category": "Lucky Balls",
+    "image": "lucky-order-sernuk.webp"
   },
   {
     "id": 122,
-    "name": "Gotta Run!",
-    "category": "Stickers",
-    "subcategory": "Series 1",
-    "image": "122.webp"
+    "name": "Ranch House Butterball",
+    "category": "Lucky Balls",
+    "image": "lucky-ranch-butterball.webp"
   },
   {
     "id": 123,
-    "name": "Great Job!",
-    "category": "Stickers",
-    "subcategory": "Series 1",
-    "image": "123.webp"
+    "name": "Ranch House Cottonbean",
+    "category": "Lucky Balls",
+    "image": "lucky-ranch-cottonbean.webp"
   },
   {
     "id": 124,
-    "name": "Groovin' Out",
-    "category": "Stickers",
-    "subcategory": "Series 1",
-    "image": "124.webp"
+    "name": "Frogbert Plush",
+    "category": "Lucky Balls",
+    "image": "lucky-frogbert.webp"
   },
   {
     "id": 125,
-    "name": "Heartbroken",
-    "category": "Stickers",
-    "subcategory": "Series 1",
-    "image": "125.webp"
+    "name": "Chatty",
+    "category": "Lucky Balls",
+    "image": "lucky-chatty.webp"
   },
   {
     "id": 126,
-    "name": "Here's To Me!",
-    "category": "Stickers",
-    "subcategory": "Series 1",
-    "image": "126.webp"
+    "name": "Pink Maji Dragon",
+    "category": "Lucky Balls",
+    "image": "madrinas-dragonfruit.webp"
   },
   {
     "id": 127,
-    "name": "Hmm...",
-    "category": "Stickers",
-    "subcategory": "Series 1",
-    "image": "127.webp"
+    "name": "Tau Plushie",
+    "category": "Quest Rewards",
+    "image": "tau-plushie.webp"
   },
   {
     "id": 128,
-    "name": "How Delightful!",
-    "category": "Stickers",
-    "subcategory": "Series 1",
-    "image": "128.webp"
+    "name": "Ranch House Cherrytail",
+    "category": "Quest Rewards",
+    "image": "ranch-house-cherrytail.webp"
   },
   {
     "id": 129,
-    "name": "Howdy, Partner!",
-    "category": "Stickers",
-    "subcategory": "Series 1",
-    "image": "129.webp"
+    "name": "Year of the Naga Plush",
+    "category": "New Year Market",
+    "image": "year-of-the-naga.webp"
   },
   {
     "id": 130,
-    "name": "Hush",
-    "category": "Stickers",
-    "subcategory": "Series 1",
-    "image": "130.webp"
+    "name": "Fun Guy Plush",
+    "category": "Maji Market",
+    "image": "chapaahut-fun-guy.webp"
   },
   {
     "id": 131,
-    "name": "I've Got It!",
-    "category": "Stickers",
-    "subcategory": "Series 1",
-    "image": "131.webp"
+    "name": "Embra Plush",
+    "category": "Maji Market",
+    "image": "chapaahut-embra.webp"
   },
   {
     "id": 132,
-    "name": "It Me",
-    "category": "Stickers",
-    "subcategory": "Series 1",
-    "image": "132.webp"
+    "name": "Maji Plush",
+    "category": "Maji Market",
+    "image": "chapaahut-maji.webp"
   },
   {
     "id": 133,
-    "name": "Just A Pinch",
-    "category": "Stickers",
-    "subcategory": "Series 1",
-    "image": "133.webp"
+    "name": "Mini Maji Plush",
+    "category": "Maji Market",
+    "image": "chapaahut-mini-maji.webp"
   },
   {
     "id": 134,
-    "name": "Looking Stylish!",
-    "category": "Stickers",
-    "subcategory": "Series 1",
-    "image": "134.webp"
+    "name": "Inki Plush",
+    "category": "Maji Market",
+    "image": "chapaahat-inki.webp"
   },
   {
     "id": 135,
-    "name": "Love It!",
-    "category": "Stickers",
-    "subcategory": "Series 1",
-    "image": "135.webp"
+    "name": "Naanshi Plush",
+    "category": "Maji Market",
+    "image": "chapaahat-naanshi.webp"
   },
   {
     "id": 136,
-    "name": "Lumberjack",
-    "category": "Stickers",
-    "subcategory": "Series 1",
-    "image": "136.webp"
+    "name": "Nergaal Plush",
+    "category": "Maji Market",
+    "image": "chapaahat-nergaal.webp"
   },
   {
     "id": 137,
-    "name": "Mouth-Watering",
-    "category": "Stickers",
-    "subcategory": "Series 1",
-    "image": "137.webp"
+    "name": "Enkii Plush",
+    "category": "Maji Market",
+    "image": "chapaahat-enkii.webp"
   },
   {
     "id": 138,
-    "name": "My Word!",
-    "category": "Stickers",
-    "subcategory": "Series 1",
-    "image": "138.webp"
+    "name": "Neena Plush",
+    "category": "Maji Market",
+    "image": "chapaahat-neena.webp"
   },
   {
     "id": 139,
-    "name": "Nice Catch!",
-    "category": "Stickers",
-    "subcategory": "Series 1",
-    "image": "139.webp"
+    "name": "Chapaa Hut Pillow",
+    "category": "Maji Market",
+    "image": "pillow-chapaahut.webp"
   },
   {
     "id": 140,
-    "name": "Oh, Please...",
-    "category": "Stickers",
-    "subcategory": "Series 1",
-    "image": "140.webp"
+    "name": "Inki Pillow",
+    "category": "Maji Market",
+    "image": "pillow-inki.webp"
   },
   {
     "id": 141,
-    "name": "Puppy Dog Eyes",
-    "category": "Stickers",
-    "subcategory": "Series 1",
-    "image": "141.webp"
+    "name": "Naanshi Pillow",
+    "category": "Maji Market",
+    "image": "pillow-naanshi.webp"
   },
   {
     "id": 142,
-    "name": "Seriously?",
-    "category": "Stickers",
-    "subcategory": "Series 1",
-    "image": "142.webp"
+    "name": "Nergaal Pillow",
+    "category": "Maji Market",
+    "image": "pillow-nergaal.webp"
   },
   {
     "id": 143,
-    "name": "Smart Thinking",
-    "category": "Stickers",
-    "subcategory": "Series 1",
-    "image": "143.webp"
+    "name": "Enkii Pillow",
+    "category": "Maji Market",
+    "image": "pillow-enkii.webp"
   },
   {
     "id": 144,
-    "name": "Snap A Photo",
-    "category": "Stickers",
-    "subcategory": "Series 1",
-    "image": "144.webp"
+    "name": "Neena Pillow",
+    "category": "Maji Market",
+    "image": "pillow-neena.webp"
   },
   {
     "id": 145,
-    "name": "So Fierce!",
-    "category": "Stickers",
-    "subcategory": "Series 1",
-    "image": "145.webp"
+    "name": "Rainbow Maji",
+    "category": "Maji Market",
+    "image": "rainbow-maji-plush.webp"
   },
   {
     "id": 146,
-    "name": "Squee!!",
-    "category": "Stickers",
-    "subcategory": "Series 1",
-    "image": "146.webp"
+    "name": "Any",
+    "category": "Maji Market",
+    "image": "clawmachine.webp"
   },
   {
     "id": 147,
-    "name": "Steady Aim",
-    "category": "Stickers",
-    "subcategory": "Series 1",
-    "image": "147.webp"
+    "name": "Li'l Carrot",
+    "category": "Maji Market",
+    "image": "clawmachine-carrot.webp"
   },
   {
     "id": 148,
-    "name": "Tears Of Joy",
-    "category": "Stickers",
-    "subcategory": "Series 1",
-    "image": "148.webp"
+    "name": "Li'l Beetle",
+    "category": "Maji Market",
+    "image": "clawmachine-beetle.webp"
   },
   {
     "id": 149,
-    "name": "That's Teamwork!",
-    "category": "Stickers",
-    "subcategory": "Series 1",
-    "image": "149.webp"
+    "name": "Li'l Snail",
+    "category": "Maji Market",
+    "image": "clawmachine-snail.webp"
   },
   {
     "id": 150,
-    "name": "This Is Fine",
-    "category": "Stickers",
-    "subcategory": "Series 1",
-    "image": "150.webp"
+    "name": "Li'l Froggy",
+    "category": "Maji Market",
+    "image": "clawmachine-froggy.webp"
   },
   {
     "id": 151,
-    "name": "What A Drag",
-    "category": "Stickers",
-    "subcategory": "Series 1",
-    "image": "151.webp"
+    "name": "Li'l Sernuk",
+    "category": "Maji Market",
+    "image": "clawmachine-sernuk.webp"
   },
   {
     "id": 152,
-    "name": "What In Tarnation",
-    "category": "Stickers",
-    "subcategory": "Series 1",
-    "image": "152.webp"
+    "name": "Li'l Turnip",
+    "category": "Maji Market",
+    "image": "clawmachine-turnip.webp"
   },
   {
     "id": 153,
-    "name": "Workin' The Mines",
-    "category": "Stickers",
-    "subcategory": "Series 1",
-    "image": "153.webp"
+    "name": "Slumber Fox",
+    "category": "Maji Market",
+    "image": "clawmachine-slumber-fox.webp"
   },
   {
     "id": 154,
+    "name": "Trufflet",
+    "category": "Maji Market",
+    "image": "clawmachine-trufflet.webp"
+  },
+  {
+    "id": 155,
+    "name": "Cutesy Kitty",
+    "category": "Maji Market",
+    "image": "clawmachine-cutesy-kitty.webp"
+  },
+  {
+    "id": 156,
+    "name": "Carefully Cultivated",
+    "category": "Stickers",
+    "image": "carefullycultivated.webp"
+  },
+  {
+    "id": 157,
+    "name": "Cat's Meow",
+    "category": "Stickers",
+    "image": "catsmeow.webp"
+  },
+  {
+    "id": 158,
+    "name": "Choices, Choices",
+    "category": "Stickers",
+    "image": "choiceschoices.webp"
+  },
+  {
+    "id": 159,
+    "name": "Does Not Compute",
+    "category": "Stickers",
+    "image": "doesnotcompute.webp"
+  },
+  {
+    "id": 160,
+    "name": "Eyyy!",
+    "category": "Stickers",
+    "image": "eyyy.webp"
+  },
+  {
+    "id": 161,
+    "name": "Fired Up!",
+    "category": "Stickers",
+    "image": "firedup.webp"
+  },
+  {
+    "id": 162,
+    "name": "Found It!",
+    "category": "Stickers",
+    "image": "foundit.webp"
+  },
+  {
+    "id": 163,
+    "name": "Genius!",
+    "category": "Stickers",
+    "image": "genius.webp"
+  },
+  {
+    "id": 164,
+    "name": "Gone Fishing!",
+    "category": "Stickers",
+    "image": "gonefishing.webp"
+  },
+  {
+    "id": 165,
+    "name": "Gotta Run!",
+    "category": "Stickers",
+    "image": "gottarun.webp"
+  },
+  {
+    "id": 166,
+    "name": "Great Job!",
+    "category": "Stickers",
+    "image": "greatjob.webp"
+  },
+  {
+    "id": 167,
+    "name": "Groovin' Out",
+    "category": "Stickers",
+    "image": "groovinout.webp"
+  },
+  {
+    "id": 168,
+    "name": "Heartbroken",
+    "category": "Stickers",
+    "image": "heartbroken.webp"
+  },
+  {
+    "id": 169,
+    "name": "Here's To Me!",
+    "category": "Stickers",
+    "image": "herestome.webp"
+  },
+  {
+    "id": 170,
+    "name": "Hmm...",
+    "category": "Stickers",
+    "image": "hmm.webp"
+  },
+  {
+    "id": 171,
+    "name": "How Delightful!",
+    "category": "Stickers",
+    "image": "howdelightful.webp"
+  },
+  {
+    "id": 172,
+    "name": "Howdy, Partner!",
+    "category": "Stickers",
+    "image": "howdypartner.webp"
+  },
+  {
+    "id": 173,
+    "name": "Hush",
+    "category": "Stickers",
+    "image": "hush.webp"
+  },
+  {
+    "id": 174,
+    "name": "I've Got It!",
+    "category": "Stickers",
+    "image": "ivegotit.webp"
+  },
+  {
+    "id": 175,
+    "name": "It Me",
+    "category": "Stickers",
+    "image": "itme.webp"
+  },
+  {
+    "id": 176,
+    "name": "Just A Pinch",
+    "category": "Stickers",
+    "image": "justapinch.webp"
+  },
+  {
+    "id": 177,
+    "name": "Looking Stylish!",
+    "category": "Stickers",
+    "image": "lookingstylish.webp"
+  },
+  {
+    "id": 178,
+    "name": "Love It!",
+    "category": "Stickers",
+    "image": "loveit.webp"
+  },
+  {
+    "id": 179,
+    "name": "Lumberjack",
+    "category": "Stickers",
+    "image": "lumberjack.webp"
+  },
+  {
+    "id": 180,
+    "name": "Mouth-Watering",
+    "category": "Stickers",
+    "image": "mouthwatering.webp"
+  },
+  {
+    "id": 181,
+    "name": "My Word!",
+    "category": "Stickers",
+    "image": "myword.webp"
+  },
+  {
+    "id": 182,
+    "name": "Nice Catch!",
+    "category": "Stickers",
+    "image": "nicecatch.webp"
+  },
+  {
+    "id": 183,
+    "name": "Oh, Please...",
+    "category": "Stickers",
+    "image": "ohplease.webp"
+  },
+  {
+    "id": 184,
+    "name": "Puppy Dog Eyes",
+    "category": "Stickers",
+    "image": "puppydogeyes.webp"
+  },
+  {
+    "id": 185,
+    "name": "Seriously?",
+    "category": "Stickers",
+    "image": "seriously.webp"
+  },
+  {
+    "id": 186,
+    "name": "Smart Thinking",
+    "category": "Stickers",
+    "image": "smartthinking.webp"
+  },
+  {
+    "id": 187,
+    "name": "Snap A Photo",
+    "category": "Stickers",
+    "image": "snapaphoto.webp"
+  },
+  {
+    "id": 188,
+    "name": "So Fierce!",
+    "category": "Stickers",
+    "image": "sofierce.webp"
+  },
+  {
+    "id": 189,
+    "name": "Squee!!",
+    "category": "Stickers",
+    "image": "squee.webp"
+  },
+  {
+    "id": 190,
+    "name": "Steady Aim",
+    "category": "Stickers",
+    "image": "steadyaim.webp"
+  },
+  {
+    "id": 191,
+    "name": "Tears Of Joy",
+    "category": "Stickers",
+    "image": "tearsofjoy.webp"
+  },
+  {
+    "id": 192,
+    "name": "That's Teamwork!",
+    "category": "Stickers",
+    "image": "thatsteamwork.webp"
+  },
+  {
+    "id": 193,
+    "name": "This Is Fine",
+    "category": "Stickers",
+    "image": "thisisfine.webp"
+  },
+  {
+    "id": 194,
+    "name": "What A Drag",
+    "category": "Stickers",
+    "image": "whatadrag.webp"
+  },
+  {
+    "id": 195,
+    "name": "What In Tarnation",
+    "category": "Stickers",
+    "image": "whatintarnation.webp"
+  },
+  {
+    "id": 196,
+    "name": "Workin' The Mines",
+    "category": "Stickers",
+    "image": "workinthemines.webp"
+  },
+  {
+    "id": 197,
     "name": "Yay!",
     "category": "Stickers",
-    "subcategory": "Series 1",
-    "image": "154.webp"
+    "image": "yay.webp"
   }
 ]

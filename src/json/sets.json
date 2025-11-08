@@ -3,18 +3,323 @@
     "id": 1,
     "category": "Potato Pods",
     "name": "Shiny Pods",
-    "members": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10]
+    "members": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10
+    ]
   },
   {
     "id": 2,
     "category": "Potato Pods",
     "name": "Potato Pods",
-    "members": [11, 12, 13, 14, 15, 16]
+    "members": [
+      11,
+      12,
+      13,
+      14,
+      15,
+      16
+    ]
   },
   {
     "id": 3,
     "category": "Potato Pods",
     "name": "Rocker Pods",
-    "members": [17, 18, 19, 20, 21, 22, 23, 24]
+    "members": [
+      17,
+      18,
+      19,
+      20,
+      21,
+      22,
+      23,
+      24
+    ]
+  },
+  {
+    "id": 4,
+    "category": "Potato Pods",
+    "name": "Pretty Pods",
+    "members": [
+      25,
+      26,
+      27,
+      28,
+      29
+    ]
+  },
+  {
+    "id": 5,
+    "category": "Potato Pods",
+    "name": "Mer Pods",
+    "members": [
+      30,
+      31,
+      32,
+      33,
+      34
+    ]
+  },
+  {
+    "id": 6,
+    "category": "Potato Pods",
+    "name": "Bonsai Pods",
+    "members": [
+      35,
+      36,
+      37,
+      38,
+      39
+    ]
+  },
+  {
+    "id": 7,
+    "category": "Potato Pods",
+    "name": "Mush Pods",
+    "members": [
+      40,
+      41,
+      42,
+      43,
+      44
+    ]
+  },
+  {
+    "id": 8,
+    "category": "Hunting",
+    "name": "Sernuk",
+    "members": [
+      45,
+      46,
+      47
+    ]
+  },
+  {
+    "id": 9,
+    "category": "Hunting",
+    "name": "Chapaa",
+    "members": [
+      48,
+      49,
+      50
+    ]
+  },
+  {
+    "id": 10,
+    "category": "Hunting",
+    "name": "Muujin",
+    "members": [
+      51,
+      52,
+      53
+    ]
+  },
+  {
+    "id": 11,
+    "category": "Hunting",
+    "name": "Ogopuu",
+    "members": [
+      54,
+      55,
+      56
+    ]
+  },
+  {
+    "id": 12,
+    "category": "Hunting",
+    "name": "Shmole",
+    "members": [
+      57,
+      58,
+      59
+    ]
+  },
+  {
+    "id": 13,
+    "category": "Hunting",
+    "name": "Rockhopper",
+    "members": [
+      60,
+      61,
+      62
+    ]
+  },
+  {
+    "id": 14,
+    "category": "Other",
+    "name": "Buyable In-Game",
+    "members": [
+      63
+    ]
+  },
+  {
+    "id": 15,
+    "category": "Fishing",
+    "name": "Floatfish",
+    "members": [
+      74,
+      75,
+      76
+    ]
+  },
+  {
+    "id": 16,
+    "category": "Twitch / Login Rewards",
+    "name": "Anniversary",
+    "members": [
+      84,
+      85
+    ]
+  },
+  {
+    "id": 17,
+    "category": "Twitch / Login Rewards",
+    "name": "Flutter Fox",
+    "members": [
+      86,
+      87,
+      88,
+      89,
+      90
+    ]
+  },
+  {
+    "id": 18,
+    "category": "Twitch / Login Rewards",
+    "name": "Palcat",
+    "members": [
+      91,
+      92,
+      93,
+      94
+    ]
+  },
+  {
+    "id": 19,
+    "category": "Twitch / Login Rewards",
+    "name": "Frogbert",
+    "members": [
+      95,
+      96,
+      97,
+      98
+    ]
+  },
+  {
+    "id": 20,
+    "category": "Twitch / Login Rewards",
+    "name": "Other",
+    "members": [
+      99,
+      100
+    ]
+  },
+  {
+    "id": 21,
+    "category": "Twitch / Login Rewards",
+    "name": "Stackable Pillow",
+    "members": [
+      101,
+      102,
+      103
+    ]
+  },
+  {
+    "id": 22,
+    "category": "Maji Market",
+    "name": "Chaapa Hut",
+    "members": [
+      130,
+      131,
+      132,
+      133,
+      134,
+      135,
+      136,
+      137,
+      138,
+      139,
+      140,
+      141,
+      142,
+      143,
+      144,
+      145
+    ]
+  },
+  {
+    "id": 23,
+    "category": "Maji Market",
+    "name": "Claw Machine",
+    "members": [
+      146,
+      147,
+      148,
+      149,
+      150,
+      151,
+      152,
+      153,
+      154,
+      155
+    ]
+  },
+  {
+    "id": 24,
+    "category": "Stickers",
+    "name": "Series1",
+    "members": [
+      156,
+      157,
+      158,
+      159,
+      160,
+      161,
+      162,
+      163,
+      164,
+      165,
+      166,
+      167,
+      168,
+      169,
+      170,
+      171,
+      172,
+      173,
+      174,
+      175,
+      176,
+      177,
+      178,
+      179,
+      180,
+      181,
+      182,
+      183,
+      184,
+      185,
+      186,
+      187,
+      188,
+      189,
+      190,
+      191,
+      192,
+      193,
+      194,
+      195,
+      196,
+      197
+    ]
   }
 ]
