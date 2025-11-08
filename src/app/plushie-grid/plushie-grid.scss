@@ -2,11 +2,11 @@
   display: grid;
   grid-template-columns: repeat(3, 1fr);
   gap: 1rem;
-  padding: 0 0.5rem; // <-- light horizontal padding
+  padding: 0 0.5rem;
 
   @media (max-width: 768px) {
     grid-template-columns: 1fr;
-    padding: 0 0.5rem; // maintain padding on mobile
+    padding: 0 0.5rem;
   }
 
   .column {
@@ -23,12 +23,18 @@
 
   /* Special layout for categories with no sets */
   &.orphans-only {
-    grid-template-columns: repeat(3, 1fr); // spread cards across columns
-    .column {
-      display: contents; // remove the extra flex wrapper
+    grid-template-columns: repeat(3, 1fr);
+
+    @media (max-width: 768px) {
+      grid-template-columns: 1fr; // <-- fix: also collapse to single column
     }
+
+    .column {
+      display: contents; // remove extra wrapper
+    }
+
     .card-iterator {
-      display: block; // each card is a grid item
+      display: block;
     }
   }
 }
