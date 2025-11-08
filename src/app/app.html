@@ -1,7 +1,17 @@
 <app-header (screenshot)="toggleScreenshot()"></app-header>
 
 <main>
-  <app-plushie-grid [plushies]="plushies"></app-plushie-grid>
+  <input 
+    type="text" 
+    placeholder="Filter plushies..." 
+    [(ngModel)]="filterText" 
+    class="filter-input"
+  />
+
+  <app-plushie-grid 
+    [plushies]="plushies" 
+    [filterText]="filterText"
+  ></app-plushie-grid>
 </main>
 
 <app-screenshot-modal

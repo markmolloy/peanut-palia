@@ -1,116 +1,32 @@
-.plushie-grid {
+.category-columns {
   display: grid;
-  grid-template-columns: repeat(3, 220px); // fixed width for each card
+  grid-template-columns: repeat(3, 1fr);
   gap: 1rem;
-  padding: 1rem;
-  justify-content: center;  // center the grid in available space
 
   @media (max-width: 768px) {
+    grid-template-columns: 1fr;
+  }
+
+  .column {
     display: flex;
     flex-direction: column;
     gap: 0.5rem;
-  }
-}
 
-/* Plushie card */
-.plushie-card {
-  width: 100%;  // fills its grid column
-  max-width: none; // allow it to fully use the 220px from grid
-  min-width: 220px; // ensures it never shrinks below grid width
-  padding: 0.75rem;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  text-align: center;
-  transition: transform 0.2s ease, box-shadow 0.2s ease;
-  width: 100%;
-  max-width: 220px;
-  min-width: 180px;
-
-  &:hover {
-    transform: translateY(-3px);
-    box-shadow: 0 4px 12px var(--card-shadow);
-  }
-
-  img {
-    width: 80px;
-    height: 80px;
-    object-fit: contain;
-    border-radius: 6px;
-    margin-bottom: 0.5rem;
-  }
-
-  .plushie-name {
-    font-size: 0.95rem;
-    font-weight: 500;
-    margin: 0.25rem 0;
-    color: var(--accent-color);
-  }
-
-  .buttons {
-    display: flex;
-    gap: 0.25rem;
-    margin-top: 0.25rem;
-
-    button {
-      flex: 1;
-      padding: 0.35rem;
-      font-size: 0.75rem;
-      border-radius: 4px;
-      background-color: var(--bg-color);
+    .set-title {
+      font-weight: 600;
+      margin-bottom: 0.5rem;
       color: var(--accent-color);
-
-      &:hover {
-        background-color: var(--accent-color);
-        color: #fff;
-      }
     }
   }
 
-  .quantity {
-    position: absolute;
-    top: -6px;
-    right: -6px;
-    background-color: var(--bg-color);
-    border: 1px solid var(--accent-color);
-    border-radius: 50%;
-    padding: 0.2rem 0.4rem;
-    font-size: 0.85rem;
-    font-weight: bold;
-    color: var(--accent-color);
-    min-width: 20px;
-    text-align: center;
-  }
-
-  /* Mobile / small screens: horizontal layout */
-  @media (max-width: 768px) {
-    flex-direction: row;
-    align-items: center;
-    max-width: 100%;
-    padding: 0.5rem 1rem;
-
-    img {
-      width: 64px;
-      height: 64px;
-      margin: 0;
-      margin-right: 0.5rem;
+  /* Special layout for categories with no sets */
+  &.orphans-only {
+    grid-template-columns: repeat(3, 1fr); // spread cards across columns
+    .column {
+      display: contents; // remove the extra flex wrapper
     }
-
-    .plushie-name {
-      margin: 0 0.5rem 0 0;
-      flex: 1;
-      text-align: left;
-    }
-
-    .buttons {
-      flex-direction: row;
-      gap: 0.25rem;
-      margin-top: 0;
-    }
-
-    .quantity {
-      top: -4px;
-      right: -4px;
+    .card-iterator {
+      display: block; // each card is a grid item
     }
   }
 }

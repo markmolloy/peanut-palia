@@ -1,4 +1,4 @@
-import { Component, Input } from '@angular/core';
+import { Component, Input, OnInit } from '@angular/core';
 import { Plushie } from '../../models/plushie.model';
 import { CommonModule } from '@angular/common';
 
@@ -9,8 +9,15 @@ import { CommonModule } from '@angular/common';
   templateUrl: './plushie-card.html',
   styleUrl: './plushie-card.scss',
 })
-export class PlushieCardComponent {
+export class PlushieCardComponent implements OnInit {
   @Input() plushie!: Plushie;
+
+  ngOnInit() {
+    if (this.plushie.quantity === undefined || this.plushie.quantity === null) {
+      this.plushie.quantity = 1;
+    }
+  }
+
 
   toggleStatus(type: 'have' | 'want') {
     if (this.plushie.status === type) {
