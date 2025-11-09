@@ -1,4 +1,4 @@
-import { Component, OnInit} from '@angular/core';
+import { Component, ElementRef, OnInit, ViewChild} from '@angular/core';
 import { RouterOutlet } from '@angular/router';
 import plushieData from '../json/plushies.json';
 import setsData from '../json/sets.json';
@@ -8,6 +8,7 @@ import { ScreenshotModal } from './screenshot-modal/screenshot-modal';
 import { PlushieGridComponent } from './plushie-grid/plushie-grid';
 import { CommonModule } from '@angular/common';
 import { FormsModule } from '@angular/forms';
+import html2canvas from 'html2canvas';
 
 interface PlushieSet {
   id: number;
@@ -122,7 +123,5 @@ export class App implements OnInit {
   toggleScreenshot() {
     this.isScreenshotOpen = true;
   }
-}
 
-// Add "Any" card at start of each subcategory
-    // 
+}
