@@ -12,7 +12,7 @@
 /* Global dark mode with purple accents */
 :root {
   --bg-color: #121212;
-  --text-color: #fff;
+  --text-color: #eee;
   --accent-color: #b57fff; /* purple accent */
   --accent-hover: #b366d2;
   --card-bg: #1b1b1b;
@@ -27,12 +27,20 @@
   box-sizing: border-box;
 }
 
+/* Card titles/names/buttons */
+.plushie-card .name,
+.plushie-card .buttons button {
+  font-family: 'Josefin Sans', sans-serif;
+  font-weight: 600;
+}
+
+
 body {
   margin: 0;
   padding: 0;
   background-color: var(--bg-color);
   color: var(--text-color);
-  font-family: 'Segoe UI', Roboto, sans-serif;
+  font-family: 'Poppins', sans-serif;
   overflow-x: hidden;
 }
 
