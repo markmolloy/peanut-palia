@@ -138,3 +138,36 @@
     }
   }
 }
+.save-btn {
+  position: absolute;
+  top: 0.5rem;
+  left: 0.5rem; /* opposite of close button */
+  background-color: var(--accent-color);
+  color: #fff;
+  border: none;
+  border-radius: 0.3rem;
+  padding: 0.4rem 0.6rem;
+  font-size: 0.9rem;
+  cursor: pointer;
+  z-index: 10;
+  display: flex;
+  font-size: 1.1em;
+  i-lucide {
+        display: flex;           // make i-lucide a flex container
+        align-items: center;     // vertical center
+        justify-content: center; // horizontal center
+        width: 1.6rem;
+        height: 1.6rem;
+        line-height: 0;          // remove extra spacing
+        margin: 0;
+        color: #eee; 
+        svg {
+          width: 100%;
+          height: 100%;
+        }
+      }
+
+  &:hover {
+    background-color: darken(#b57fff, 10%);
+  }
+}

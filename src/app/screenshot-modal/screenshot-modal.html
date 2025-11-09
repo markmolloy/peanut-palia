@@ -1,8 +1,13 @@
 <div class="modal-backdrop" (click)="closeModal()"></div>
-
-<div class="modal-content">
+<div class="modal-content" id="modal" #modal>
     
   <button class="close-btn" (click)="closeModal()">✕</button>
+
+  <!-- Save button -->
+  <button class="save-btn" (click)="saveModal()" title="Download modal as PNG">
+    <i-lucide [img]="Download"></i-lucide>
+    Save as PNG
+  </button>
 
   <h2>Have</h2>
   <div class="plushie-list">
