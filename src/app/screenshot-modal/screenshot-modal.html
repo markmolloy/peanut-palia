@@ -9,18 +9,18 @@
     Save as PNG
   </button>
 
-  <h2>Have</h2>
+  <h2>Want</h2>
   <div class="plushie-list">
-    <div class="plushie-item" *ngFor="let p of havePlushies">
+    <div class="plushie-item" *ngFor="let p of wantPlushies">
       <img [src]="'assets/images/' + p.image" [alt]="p.name" />
       <span class="quantity" *ngIf="p.quantity && p.quantity > 1">{{ p.quantity }}x</span>
       <p>{{ p.name }}</p>
     </div>
   </div>
 
-  <h2>Want</h2>
+  <h2>Have</h2>
   <div class="plushie-list">
-    <div class="plushie-item" *ngFor="let p of wantPlushies">
+    <div class="plushie-item" *ngFor="let p of havePlushies">
       <img [src]="'assets/images/' + p.image" [alt]="p.name" />
       <span class="quantity" *ngIf="p.quantity && p.quantity > 1">{{ p.quantity }}x</span>
       <p>{{ p.name }}</p>

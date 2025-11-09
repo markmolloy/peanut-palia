@@ -39,11 +39,12 @@ export class ScreenshotModal implements OnInit, OnDestroy {
 
   async saveModal() {
     console.log('ScreenshotModal: saveModal called');
-    this.isSaving = true; // ✅ show spinner
+    this.isSaving = true; // show spinner
     const modal = this.modalRef.nativeElement;
     if (!modal) return;
 
     try {
+      // Wait for fonts and images to load
       await document.fonts.ready;
       const imgs = Array.from(modal.querySelectorAll('img'));
       await Promise.all(
@@ -54,31 +55,45 @@ export class ScreenshotModal implements OnInit, OnDestroy {
         )
       );
 
+      // Clone modal
       const clone = modal.cloneNode(true) as HTMLElement;
+
+      // Remove buttons
       const buttons = clone.querySelectorAll('.close-btn, .save-btn');
       buttons.forEach(btn => btn.remove());
 
+      // Adjust grid columns for cloned modal
+      clone.querySelectorAll('.plushie-list').forEach(list => {
+        const numItems = list.children.length;
+        const columns = Math.min(numItems, 8); // max 8 columns
+        (list as HTMLElement).style.display = 'grid';
+        (list as HTMLElement).style.gridTemplateColumns = `repeat(${columns}, 80px)`; // fixed width
+        (list as HTMLElement).style.justifyContent = 'start'; // don't stretch
+        (list as HTMLElement).style.gap = '1rem';
+      });
+
+      // Position clone offscreen
       const rect = modal.getBoundingClientRect();
       clone.style.position = 'absolute';
       clone.style.top = '0';
       clone.style.left = '0';
       clone.style.transform = 'none';
-      clone.style.width = `${rect.width}px`;
-      clone.style.height = `${rect.height}px`;
+      clone.style.width = 'auto'; // allow width to shrink naturally
+      clone.style.height = 'auto';
       clone.style.maxWidth = 'none';
       clone.style.maxHeight = 'none';
       clone.style.overflow = 'visible';
       clone.style.zIndex = '9999';
 
+      // Container to hold clone offscreen
       const container = document.createElement('div');
       container.style.position = 'fixed';
       container.style.top = '-9999px';
       container.style.left = '-9999px';
-      container.style.width = `${rect.width}px`;
-      container.style.height = `${rect.height}px`;
       container.appendChild(clone);
       document.body.appendChild(container);
 
+      // Render with html2canvas
       const canvas = await html2canvas(clone, { backgroundColor: '#1a1a1a', scale: 2 });
       const blob = await new Promise<Blob | null>(res => canvas.toBlob(res));
       if (blob) {
@@ -92,8 +107,11 @@ export class ScreenshotModal implements OnInit, OnDestroy {
     } catch (err) {
       console.error('Error saving modal:', err);
     } finally {
-      this.isSaving = false; // ✅ hide spinner
+      this.isSaving = false; // hide spinner
     }
   }
+
+
+
 }
 
