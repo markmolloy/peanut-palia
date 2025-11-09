@@ -4,7 +4,6 @@
     "category": "Potato Pods",
     "name": "Shiny Pods",
     "members": [
-      0,
       1,
       2,
       3,
@@ -15,27 +14,27 @@
       8,
       9,
       10
-    ]
+    ],
+    "image": "set-1.webp"
   },
   {
     "id": 2,
     "category": "Potato Pods",
     "name": "Potato Pods",
     "members": [
-      11,
       12,
       13,
       14,
       15,
       16
-    ]
+    ],
+    "image": "set-2.webp"
   },
   {
     "id": 3,
     "category": "Potato Pods",
     "name": "Rocker Pods",
     "members": [
-      17,
       18,
       19,
       20,
@@ -43,55 +42,56 @@
       22,
       23,
       24
-    ]
+    ],
+    "image": "set-3.webp"
   },
   {
     "id": 4,
     "category": "Potato Pods",
     "name": "Pretty Pods",
     "members": [
-      25,
       26,
       27,
       28,
       29
-    ]
+    ],
+    "image": "set-4.webp"
   },
   {
     "id": 5,
     "category": "Potato Pods",
     "name": "Mer Pods",
     "members": [
-      30,
       31,
       32,
       33,
       34
-    ]
+    ],
+    "image": "set-5.webp"
   },
   {
     "id": 6,
     "category": "Potato Pods",
     "name": "Bonsai Pods",
     "members": [
-      35,
       36,
       37,
       38,
       39
-    ]
+    ],
+    "image": "set-6.webp"
   },
   {
     "id": 7,
     "category": "Potato Pods",
     "name": "Mush Pods",
     "members": [
-      40,
       41,
       42,
       43,
       44
-    ]
+    ],
+    "image": "set-7.webp"
   },
   {
     "id": 8,
@@ -101,7 +101,8 @@
       45,
       46,
       47
-    ]
+    ],
+    "image": "set-8.webp"
   },
   {
     "id": 9,
@@ -111,7 +112,8 @@
       48,
       49,
       50
-    ]
+    ],
+    "image": "set-9.webp"
   },
   {
     "id": 10,
@@ -121,7 +123,8 @@
       51,
       52,
       53
-    ]
+    ],
+    "image": "set-10.webp"
   },
   {
     "id": 11,
@@ -131,7 +134,8 @@
       54,
       55,
       56
-    ]
+    ],
+    "image": "set-11.webp"
   },
   {
     "id": 12,
@@ -141,7 +145,8 @@
       57,
       58,
       59
-    ]
+    ],
+    "image": "set-12.webp"
   },
   {
     "id": 13,
@@ -151,15 +156,8 @@
       60,
       61,
       62
-    ]
-  },
-  {
-    "id": 14,
-    "category": "Other",
-    "name": "Buyable In-Game",
-    "members": [
-      63
-    ]
+    ],
+    "image": "set-13.webp"
   },
   {
     "id": 15,
@@ -169,7 +167,8 @@
       74,
       75,
       76
-    ]
+    ],
+    "image": "set-15.webp"
   },
   {
     "id": 16,
@@ -178,7 +177,8 @@
     "members": [
       84,
       85
-    ]
+    ],
+    "image": "set-16.webp"
   },
   {
     "id": 17,
@@ -190,7 +190,8 @@
       88,
       89,
       90
-    ]
+    ],
+    "image": "set-17.webp"
   },
   {
     "id": 18,
@@ -201,7 +202,8 @@
       92,
       93,
       94
-    ]
+    ],
+    "image": "set-18.webp"
   },
   {
     "id": 19,
@@ -212,7 +214,8 @@
       96,
       97,
       98
-    ]
+    ],
+    "image": "set-19.webp"
   },
   {
     "id": 20,
@@ -221,7 +224,8 @@
     "members": [
       99,
       100
-    ]
+    ],
+    "image": "set-20.webp"
   },
   {
     "id": 21,
@@ -231,7 +235,8 @@
       101,
       102,
       103
-    ]
+    ],
+    "image": "set-21.webp"
   },
   {
     "id": 22,
@@ -254,7 +259,8 @@
       143,
       144,
       145
-    ]
+    ],
+    "image": "set-22.webp"
   },
   {
     "id": 23,
@@ -271,7 +277,8 @@
       153,
       154,
       155
-    ]
+    ],
+    "image": "set-23.webp"
   },
   {
     "id": 24,
@@ -320,6 +327,7 @@
       195,
       196,
       197
-    ]
+    ],
+    "image": "set-24.webp"
   }
 ]
