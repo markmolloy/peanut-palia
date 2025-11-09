@@ -4,9 +4,15 @@
 
   <div class="controls">
     <div class="quantity">
-      <button (click)="decreaseQuantity()">-</button>
+      <button 
+        [ngClass]="{'have': plushie.status === 'have', 'want': plushie.status === 'want'}" 
+        (click)="decreaseQuantity()"
+      >-</button>
       <input type="number" [value]="plushie.quantity" readonly />
-      <button (click)="increaseQuantity()">+</button>
+      <button 
+        [ngClass]="{'have': plushie.status === 'have', 'want': plushie.status === 'want'}" 
+        (click)="increaseQuantity()"
+      >+</button>
     </div>
 
     <div class="buttons">
