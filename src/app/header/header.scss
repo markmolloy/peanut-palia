@@ -1,21 +1,79 @@
+/* src/app/header/app-header.component.scss */
+
 .header {
   position: sticky;
   top: 0;
-  background-color: #1f1f1f;
-  padding: 0.2rem 1rem;
+  background-color: #1a1a1a;
+  padding: 0.5rem 1rem;
   display: flex;
   justify-content: space-between;
   align-items: center;
   z-index: 100;
   box-shadow: 0 2px 6px rgba(0,0,0,0.7);
-  border-bottom: 2px solid var(--accent-color);;
+  border-bottom: 2px solid #b57fff;
 
-  .screenshot-btn {
-    background-color: #0ea5e9; // blue for screenshot
-    color: #fff;
-    &:hover { background-color: #0284c7; }
+  h1 {
+    font-family: 'Josefin Sans', sans-serif;
+    font-weight: 600;
+    font-size: 1.8rem;
+    color: #eee;
+    margin: 0;
   }
+
   img {
     width: 40px;
+    height: auto;
+  }
+
+  .header-buttons {
+  display: flex;
+  gap: 0.5rem;
+
+    button {
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      padding: 0.4rem;
+      border: none;
+      border-radius: 0.3rem;
+      background-color: #b57fff;
+      cursor: pointer;
+
+      i-lucide {
+        display: flex;           // make i-lucide a flex container
+        align-items: center;     // vertical center
+        justify-content: center; // horizontal center
+        width: 1.6rem;
+        height: 1.6rem;
+        line-height: 0;          // remove extra spacing
+        margin: 0;
+        color: #eee; 
+        svg {
+          width: 100%;
+          height: 100%;
+        }
+      }
+
+      &:hover {
+        background-color: darken(#b57fff, 10%);
+      }
+    }
+  }
+
+
+  @media (max-width: 768px) {
+    padding: 0.3rem 0.8rem;
+    h1 {
+      font-size: 1.5rem;
+    }
+
+    .header-buttons {
+      gap: 0.3rem;
+
+      button {
+        padding: 0.3rem 0.5rem;
+        font-size: 0.9rem;
+      }
+    }
   }
 }
