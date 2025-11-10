@@ -8,11 +8,17 @@
     class="filter-input"
   />
 
-  <select [(ngModel)]="currentType" (change)="switchItems(currentType)">
-    <option value="plushies">Plushies</option>
-    <option value="stickers">Stickers</option>
-    <option value="artifacts">Artifacts</option>
-  </select>
+   <div class="type-switcher">
+    <button 
+      [class.active]="currentType === 'plushies'" 
+      (click)="switchItems('plushies')">Plushies</button>
+    <button 
+      [class.active]="currentType === 'stickers'" 
+      (click)="switchItems('stickers')">Stickers</button>
+    <button 
+      [class.active]="currentType === 'artifacts'" 
+      (click)="switchItems('artifacts')">Artifacts</button>
+  </div>
 
   <app-plushie-grid 
     [plushies]="currentItems" 
