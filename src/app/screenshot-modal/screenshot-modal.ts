@@ -38,7 +38,6 @@ export class ScreenshotModal implements OnInit, OnDestroy {
   }
 
   async saveModal() {
-    console.log('ScreenshotModal: saveModal called');
     this.isSaving = true; // show spinner
     const modal = this.modalRef.nativeElement;
     if (!modal) return;
@@ -99,7 +98,7 @@ export class ScreenshotModal implements OnInit, OnDestroy {
       if (blob) {
         const link = document.createElement('a');
         link.href = URL.createObjectURL(blob);
-        link.download = 'modal-screenshot.png';
+        link.download = 'tradelist.png';
         link.click();
       }
 

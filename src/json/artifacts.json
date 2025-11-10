@@ -1,0 +1,188 @@
+[
+  {
+    "id": 0,
+    "name": "Ancient Statue #1",
+    "category": "artifact",
+    "image": "ancient-statue-1.webp"
+  },
+  {
+    "id": 1,
+    "name": "Ancient Statue #2",
+    "category": "artifact",
+    "image": "ancient-statue-2.webp"
+  },
+  {
+    "id": 2,
+    "name": "Ancient Statue #3",
+    "category": "artifact",
+    "image": "ancient-statue-3.webp"
+  },
+  {
+    "id": 3,
+    "name": "Ancient Drum Toy",
+    "category": "artifact",
+    "image": "ancient-drum-toy.webp"
+  },
+  {
+    "id": 4,
+    "name": "Ancient Machine #1",
+    "category": "artifact",
+    "image": "ancient-machine-1.webp"
+  },
+  {
+    "id": 5,
+    "name": "Ancient Machine #2",
+    "category": "artifact",
+    "image": "ancient-machine-2.webp"
+  },
+  {
+    "id": 6,
+    "name": "Ancient Machine #3",
+    "category": "artifact",
+    "image": "ancient-machine-3.webp"
+  },
+  {
+    "id": 7,
+    "name": "Ancient Machine #4",
+    "category": "artifact",
+    "image": "ancient-machine-4.webp"
+  },
+  {
+    "id": 8,
+    "name": "Ancient Machine #5",
+    "category": "artifact",
+    "image": "ancient-machine-5.webp"
+  },
+  {
+    "id": 9,
+    "name": "Ancient Necklace #1",
+    "category": "artifact",
+    "image": "ancient-necklace-1.webp"
+  },
+  {
+    "id": 10,
+    "name": "Ancient Necklace #2",
+    "category": "artifact",
+    "image": "ancient-necklace-2.webp"
+  },
+  {
+    "id": 11,
+    "name": "Ancient Galdur Toy",
+    "category": "artifact",
+    "image": "ancient-galdur-toy.webp"
+  },
+  {
+    "id": 12,
+    "name": "Umbraan Lute #1",
+    "category": "artifact",
+    "image": "umbraan-lute-1.webp"
+  },
+  {
+    "id": 13,
+    "name": "Umbraan Lute #2",
+    "category": "artifact",
+    "image": "umbraan-lute-2.webp"
+  },
+  {
+    "id": 14,
+    "name": "Umbraan Thing",
+    "category": "artifact",
+    "image": "umbraan-thing.webp"
+  },
+  {
+    "id": 15,
+    "name": "Umbraan Dress #1",
+    "category": "artifact",
+    "image": "umbraan-dress-1.webp"
+  },
+  {
+    "id": 16,
+    "name": "Umbraan Dress #2",
+    "category": "artifact",
+    "image": "umbraan-dress-2.webp"
+  },
+  {
+    "id": 17,
+    "name": "Umbraan Dress #3",
+    "category": "artifact",
+    "image": "umbraan-dress-3.webp"
+  },
+  {
+    "id": 18,
+    "name": "Umbraan Painting #1",
+    "category": "artifact",
+    "image": "umbraan-painting-1.webp"
+  },
+  {
+    "id": 19,
+    "name": "Umbraan Painting #2",
+    "category": "artifact",
+    "image": "umbraan-painting-2.webp"
+  },
+  {
+    "id": 20,
+    "name": "Umbraan Painting #3",
+    "category": "artifact",
+    "image": "umbraan-painting-3.webp"
+  },
+  {
+    "id": 21,
+    "name": "Umbraan Pot",
+    "category": "artifact",
+    "image": "umbraan-pot.webp"
+  },
+  {
+    "id": 22,
+    "name": "Wartorn Sword #1",
+    "category": "artifact",
+    "image": "wartorn-sword-1.webp"
+  },
+  {
+    "id": 23,
+    "name": "Wartorn Sword #2",
+    "category": "artifact",
+    "image": "wartorn-sword-2.webp"
+  },
+  {
+    "id": 24,
+    "name": "Wartorn Horn #1",
+    "category": "artifact",
+    "image": "wartorn-horn-1.webp"
+  },
+  {
+    "id": 25,
+    "name": "Wartorn Horn #2",
+    "category": "artifact",
+    "image": "wartorn-horn-2.webp"
+  },
+  {
+    "id": 26,
+    "name": "Wartorn Banner #1",
+    "category": "artifact",
+    "image": "wartorn-banner-1.webp"
+  },
+  {
+    "id": 27,
+    "name": "Wartorn Banner #2",
+    "category": "artifact",
+    "image": "wartorn-banner-2.webp"
+  },
+  {
+    "id": 28,
+    "name": "Wartorn Banner #3",
+    "category": "artifact",
+    "image": "wartorn-banner-3.webp"
+  },
+  {
+    "id": 29,
+    "name": "Wartorn Mermaid",
+    "category": "artifact",
+    "image": "wartorn-mermaid.webp"
+  },
+  {
+    "id": 30,
+    "name": "Wartorn Creature",
+    "category": "artifact",
+    "image": "wartorn-creature.webp"
+  }
+]
