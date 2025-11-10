@@ -427,31 +427,31 @@
   },
   {
     "id": 78,
-    "name": "Garden Ladybug Plush",
+    "name": "Garden Ladybug",
     "category": "Bug Catching",
     "image": "bug-garden-ladybug.webp"
   },
   {
     "id": 79,
-    "name": "Proudhorned Beetle Plush",
+    "name": "Proudhorned Beetle",
     "category": "Bug Catching",
     "image": "bug-proudhorned-beetle.webp"
   },
   {
     "id": 80,
-    "name": "Lantern Bug Plush",
+    "name": "Lantern Bug",
     "category": "Bug Catching",
     "image": "bug-lantern.webp"
   },
   {
     "id": 81,
-    "name": "Garden Snail Plush",
+    "name": "Garden Snail",
     "category": "Bug Catching",
     "image": "garden-snail-plush.webp"
   },
   {
     "id": 82,
-    "name": "Rainbow Tipped Butterfly Plush",
+    "name": "Rainbow Tipped Butterfly",
     "category": "Bug Catching",
     "image": "rainbow-tipped-butterfly.webp"
   },
@@ -482,13 +482,13 @@
   {
     "id": 87,
     "name": "Spring",
-    "category": "Twitch / Login Rewards",
+    "category": "Zeki Coins",
     "image": "flutterfox-spring.webp"
   },
   {
     "id": 88,
     "name": "Winter",
-    "category": "Twitch / Login Rewards",
+    "category": "Zeki Coins",
     "image": "flutterfox-winter.webp"
   },
   {
@@ -559,25 +559,25 @@
   },
   {
     "id": 100,
-    "name": "Giant Honeybunch Plush",
+    "name": "Giant Honeybunch",
     "category": "Twitch / Login Rewards",
     "image": "lucky-honeybunch.webp"
   },
   {
     "id": 101,
-    "name": "Palcat",
+    "name": "Palcat Stackable Pillow",
     "category": "Twitch / Login Rewards",
     "image": "stackable-palcat.webp"
   },
   {
     "id": 102,
-    "name": "Muujin",
+    "name": "Muujin Stackable Pillow",
     "category": "Twitch / Login Rewards",
     "image": "stackable-muujin.webp"
   },
   {
     "id": 103,
-    "name": "Chapaa",
+    "name": "Chapaa Stackable Pillow",
     "category": "Twitch / Login Rewards",
     "image": "stackable-chapaa.webp"
   },
@@ -619,7 +619,7 @@
   },
   {
     "id": 110,
-    "name": "Madrinas Maji Plush",
+    "name": "Madrinas Maji",
     "category": "Collabs",
     "image": "madrinas-dragonfruit.webp"
   },
@@ -649,79 +649,79 @@
   },
   {
     "id": 115,
-    "name": "Me n' My Honeybunch Plush",
-    "category": "Lucky Balls",
+    "name": "Me n' My Honeybunch",
+    "category": "Zeki Coins",
     "image": "lucky-honeybunch.webp"
   },
   {
     "id": 116,
-    "name": "Fun Guy Plushie",
-    "category": "Lucky Balls",
+    "name": "Fun Guy",
+    "category": "Zeki Coins",
     "image": "lucky-fun-guy.webp"
   },
   {
     "id": 117,
     "name": "Green Cylinder",
-    "category": "Lucky Balls",
+    "category": "Zeki Coins",
     "image": "lucky-green-cylinder.webp"
   },
   {
     "id": 118,
-    "name": "Ancient Kitsuu Plush",
-    "category": "Lucky Balls",
+    "name": "Ancient Kitsuu",
+    "category": "Zeki Coins",
     "image": "lucky-ancient-kitsuu.webp"
   },
   {
     "id": 119,
-    "name": "Ancient Fish Plush",
-    "category": "Lucky Balls",
+    "name": "Ancient Fish",
+    "category": "Zeki Coins",
     "image": "lucky-ancient-fish.webp"
   },
   {
     "id": 120,
-    "name": "Ancient Silverwing Plush",
-    "category": "Lucky Balls",
+    "name": "Ancient Silverwing",
+    "category": "Zeki Coins",
     "image": "lucky-ancient-silverwing.webp"
   },
   {
     "id": 121,
-    "name": "The Order Sernuk Plush",
-    "category": "Lucky Balls",
+    "name": "The Order Sernuk",
+    "category": "Zeki Coins",
     "image": "lucky-order-sernuk.webp"
   },
   {
     "id": 122,
     "name": "Ranch House Butterball",
-    "category": "Lucky Balls",
+    "category": "Zeki Coins",
     "image": "lucky-ranch-butterball.webp"
   },
   {
     "id": 123,
     "name": "Ranch House Cottonbean",
-    "category": "Lucky Balls",
+    "category": "Zeki Coins",
     "image": "lucky-ranch-cottonbean.webp"
   },
   {
     "id": 124,
-    "name": "Frogbert Plush",
-    "category": "Lucky Balls",
+    "name": "Frogbert",
+    "category": "Zeki Coins",
     "image": "lucky-frogbert.webp"
   },
   {
     "id": 125,
     "name": "Chatty",
-    "category": "Lucky Balls",
+    "category": "Zeki Coins",
     "image": "lucky-chatty.webp"
   },
   {
     "id": 126,
     "name": "Pink Maji Dragon",
-    "category": "Lucky Balls",
+    "category": "Zeki Coins",
     "image": "madrinas-dragonfruit.webp"
   },
   {
     "id": 127,
-    "name": "Tau Plushie",
+    "name": "Tau",
     "category": "Quest Rewards",
     "image": "tau-plushie.webp"
   },
@@ -733,61 +733,61 @@
   },
   {
     "id": 129,
-    "name": "Year of the Naga Plush",
+    "name": "Year of the Naga",
     "category": "New Year Market",
     "image": "year-of-the-naga.webp"
   },
   {
     "id": 130,
-    "name": "Fun Guy Plush",
+    "name": "Chapaa Hut Fun Guy",
     "category": "Maji Market",
     "image": "chapaahut-fun-guy.webp"
   },
   {
     "id": 131,
-    "name": "Embra Plush",
+    "name": "Embra",
     "category": "Maji Market",
     "image": "chapaahut-embra.webp"
   },
   {
     "id": 132,
-    "name": "Maji Plush",
+    "name": "Maji",
     "category": "Maji Market",
     "image": "chapaahut-maji.webp"
   },
   {
     "id": 133,
-    "name": "Mini Maji Plush",
+    "name": "Mini Maji",
     "category": "Maji Market",
     "image": "chapaahut-mini-maji.webp"
   },
   {
     "id": 134,
-    "name": "Inki Plush",
+    "name": "Inki",
     "category": "Maji Market",
     "image": "chapaahat-inki.webp"
   },
   {
     "id": 135,
-    "name": "Naanshi Plush",
+    "name": "Naanshi",
     "category": "Maji Market",
     "image": "chapaahat-naanshi.webp"
   },
   {
     "id": 136,
-    "name": "Nergaal Plush",
+    "name": "Nergaal",
     "category": "Maji Market",
     "image": "chapaahat-nergaal.webp"
   },
   {
     "id": 137,
-    "name": "Enkii Plush",
+    "name": "Enkii",
     "category": "Maji Market",
     "image": "chapaahat-enkii.webp"
   },
   {
     "id": 138,
-    "name": "Neena Plush",
+    "name": "Neena",
     "category": "Maji Market",
     "image": "chapaahat-neena.webp"
   },
@@ -889,254 +889,9 @@
   },
   {
     "id": 156,
-    "name": "Carefully Cultivated",
-    "category": "Stickers",
-    "image": "carefullycultivated.webp"
-  },
-  {
-    "id": 157,
-    "name": "Cat's Meow",
-    "category": "Stickers",
-    "image": "catsmeow.webp"
-  },
-  {
-    "id": 158,
-    "name": "Choices, Choices",
-    "category": "Stickers",
-    "image": "choiceschoices.webp"
-  },
-  {
-    "id": 159,
-    "name": "Does Not Compute",
-    "category": "Stickers",
-    "image": "doesnotcompute.webp"
-  },
-  {
-    "id": 160,
-    "name": "Eyyy!",
-    "category": "Stickers",
-    "image": "eyyy.webp"
-  },
-  {
-    "id": 161,
-    "name": "Fired Up!",
-    "category": "Stickers",
-    "image": "firedup.webp"
-  },
-  {
-    "id": 162,
-    "name": "Found It!",
-    "category": "Stickers",
-    "image": "foundit.webp"
-  },
-  {
-    "id": 163,
-    "name": "Genius!",
-    "category": "Stickers",
-    "image": "genius.webp"
-  },
-  {
-    "id": 164,
-    "name": "Gone Fishing!",
-    "category": "Stickers",
-    "image": "gonefishing.webp"
-  },
-  {
-    "id": 165,
-    "name": "Gotta Run!",
-    "category": "Stickers",
-    "image": "gottarun.webp"
-  },
-  {
-    "id": 166,
-    "name": "Great Job!",
-    "category": "Stickers",
-    "image": "greatjob.webp"
-  },
-  {
-    "id": 167,
-    "name": "Groovin' Out",
-    "category": "Stickers",
-    "image": "groovinout.webp"
-  },
-  {
-    "id": 168,
-    "name": "Heartbroken",
-    "category": "Stickers",
-    "image": "heartbroken.webp"
-  },
-  {
-    "id": 169,
-    "name": "Here's To Me!",
-    "category": "Stickers",
-    "image": "herestome.webp"
-  },
-  {
-    "id": 170,
-    "name": "Hmm...",
-    "category": "Stickers",
-    "image": "hmm.webp"
-  },
-  {
-    "id": 171,
-    "name": "How Delightful!",
-    "category": "Stickers",
-    "image": "howdelightful.webp"
-  },
-  {
-    "id": 172,
-    "name": "Howdy, Partner!",
-    "category": "Stickers",
-    "image": "howdypartner.webp"
-  },
-  {
-    "id": 173,
-    "name": "Hush",
-    "category": "Stickers",
-    "image": "hush.webp"
-  },
-  {
-    "id": 174,
-    "name": "I've Got It!",
-    "category": "Stickers",
-    "image": "ivegotit.webp"
-  },
-  {
-    "id": 175,
-    "name": "It Me",
-    "category": "Stickers",
-    "image": "itme.webp"
-  },
-  {
-    "id": 176,
-    "name": "Just A Pinch",
-    "category": "Stickers",
-    "image": "justapinch.webp"
-  },
-  {
-    "id": 177,
-    "name": "Looking Stylish!",
-    "category": "Stickers",
-    "image": "lookingstylish.webp"
-  },
-  {
-    "id": 178,
-    "name": "Love It!",
-    "category": "Stickers",
-    "image": "loveit.webp"
-  },
-  {
-    "id": 179,
-    "name": "Lumberjack",
-    "category": "Stickers",
-    "image": "lumberjack.webp"
-  },
-  {
-    "id": 180,
-    "name": "Mouth-Watering",
-    "category": "Stickers",
-    "image": "mouthwatering.webp"
-  },
-  {
-    "id": 181,
-    "name": "My Word!",
-    "category": "Stickers",
-    "image": "myword.webp"
-  },
-  {
-    "id": 182,
-    "name": "Nice Catch!",
-    "category": "Stickers",
-    "image": "nicecatch.webp"
-  },
-  {
-    "id": 183,
-    "name": "Oh, Please...",
-    "category": "Stickers",
-    "image": "ohplease.webp"
-  },
-  {
-    "id": 184,
-    "name": "Puppy Dog Eyes",
-    "category": "Stickers",
-    "image": "puppydogeyes.webp"
-  },
-  {
-    "id": 185,
-    "name": "Seriously?",
-    "category": "Stickers",
-    "image": "seriously.webp"
-  },
-  {
-    "id": 186,
-    "name": "Smart Thinking",
-    "category": "Stickers",
-    "image": "smartthinking.webp"
-  },
-  {
-    "id": 187,
-    "name": "Snap A Photo",
-    "category": "Stickers",
-    "image": "snapaphoto.webp"
-  },
-  {
-    "id": 188,
-    "name": "So Fierce!",
-    "category": "Stickers",
-    "image": "sofierce.webp"
-  },
-  {
-    "id": 189,
-    "name": "Squee!!",
-    "category": "Stickers",
-    "image": "squee.webp"
-  },
-  {
-    "id": 190,
-    "name": "Steady Aim",
-    "category": "Stickers",
-    "image": "steadyaim.webp"
-  },
-  {
-    "id": 191,
-    "name": "Tears Of Joy",
-    "category": "Stickers",
-    "image": "tearsofjoy.webp"
-  },
-  {
-    "id": 192,
-    "name": "That's Teamwork!",
-    "category": "Stickers",
-    "image": "thatsteamwork.webp"
-  },
-  {
-    "id": 193,
-    "name": "This Is Fine",
-    "category": "Stickers",
-    "image": "thisisfine.webp"
-  },
-  {
-    "id": 194,
-    "name": "What A Drag",
-    "category": "Stickers",
-    "image": "whatadrag.webp"
-  },
-  {
-    "id": 195,
-    "name": "What In Tarnation",
-    "category": "Stickers",
-    "image": "whatintarnation.webp"
-  },
-  {
-    "id": 196,
-    "name": "Workin' The Mines",
-    "category": "Stickers",
-    "image": "workinthemines.webp"
-  },
-  {
-    "id": 197,
-    "name": "Yay!",
-    "category": "Stickers",
-    "image": "yay.webp"
+    "name": "Madrinas Fun Guy",
+    "category": "Collabs",
+    "image": "madrinasfunguy.webp"
   }
+  
 ]

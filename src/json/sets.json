@@ -185,25 +185,12 @@
     "image": "set-15.webp"
   },
   {
-    "id": 16,
-    "order": 14,
-    "category": "Twitch / Login Rewards",
-    "name": "Anniversary",
-    "members": [
-      84,
-      85
-    ],
-    "image": "set-16.webp"
-  },
-  {
     "id": 17,
     "order": 15,
     "category": "Twitch / Login Rewards",
     "name": "Flutter Fox",
     "members": [
       86,
-      87,
-      88,
       89,
       90
     ],
@@ -236,17 +223,6 @@
     "image": "set-19.webp"
   },
   {
-    "id": 20,
-    "order": 18,
-    "category": "Twitch / Login Rewards",
-    "name": "Other",
-    "members": [
-      99,
-      100
-    ],
-    "image": "set-20.webp"
-  },
-  {
     "id": 21,
     "order": 19,
     "category": "Twitch / Login Rewards",
@@ -265,21 +241,26 @@
     "name": "Chaapa Hut",
     "members": [
       130,
-      131,
-      132,
-      133,
       134,
       135,
       136,
       137,
-      138,
+      138
+    ],
+    "image": "set-22.webp"
+  },
+  {
+    "id": 22,
+    "order": 20,
+    "category": "Maji Market",
+    "name": "Chaapa Hut Pillow",
+    "members": [
       139,
       140,
       141,
       142,
       143,
-      144,
-      145
+      144
     ],
     "image": "set-22.webp"
   },
@@ -287,70 +268,15 @@
     "id": 23,
     "order": 21,
     "category": "Maji Market",
-    "name": "Claw Machine",
+    "name": "Li'l",
     "members": [
-      146,
       147,
       148,
       149,
       150,
       151,
-      152,
-      153,
-      154,
-      155
+      152
     ],
     "image": "set-23.webp"
-  },
-  {
-    "id": 24,
-    "order": 22,
-    "category": "Stickers",
-    "name": "Series 1",
-    "members": [
-      156,
-      157,
-      158,
-      159,
-      160,
-      161,
-      162,
-      163,
-      164,
-      165,
-      166,
-      167,
-      168,
-      169,
-      170,
-      171,
-      172,
-      173,
-      174,
-      175,
-      176,
-      177,
-      178,
-      179,
-      180,
-      181,
-      182,
-      183,
-      184,
-      185,
-      186,
-      187,
-      188,
-      189,
-      190,
-      191,
-      192,
-      193,
-      194,
-      195,
-      196,
-      197
-    ],
-    "image": "set-24.webp"
   }
 ]

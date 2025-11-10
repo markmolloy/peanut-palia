@@ -17,6 +17,14 @@
   max-width: 500px;
   box-sizing: border-box;
   overflow: hidden;
+  transition: all 700ms ease;;
+
+  &.have {
+    border: 2px solid #b57fff;
+  }
+  &.want {
+    border: 2px solid #81F7E5;
+  }
 
   img {
     width: 50px;
