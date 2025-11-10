@@ -1,5 +1,5 @@
 import { Component, Input, Output, EventEmitter, ElementRef, ViewChild, OnDestroy, OnInit } from '@angular/core';
-import { Plushie } from '../../models/plushie.model';
+import { TradeItem } from '../../models/trade-item.model';
 import { CommonModule } from '@angular/common';
 import html2canvas from 'html2canvas';
 import { LucideAngularModule, Download } from 'lucide-angular';
@@ -14,8 +14,8 @@ import { ScreenshotService } from '../screenshot-service';
   styleUrls: ['./screenshot-modal.scss'],
 })
 export class ScreenshotModal implements OnInit, OnDestroy {
-  @Input() havePlushies: Plushie[] = [];
-  @Input() wantPlushies: Plushie[] = [];
+  @Input() havePlushies: TradeItem[] = [];
+  @Input() wantPlushies: TradeItem[] = [];
   @Output() close = new EventEmitter<void>();
   @ViewChild('modal', { static: true }) modalRef!: ElementRef<HTMLDivElement>;
   private sub!: Subscription;

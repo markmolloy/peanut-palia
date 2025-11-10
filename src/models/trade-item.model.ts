@@ -1,4 +1,4 @@
-export interface Plushie {
+export interface TradeItem {
   id: number;
   name: string;
   category: string;      // e.g., "bugs"
@@ -8,15 +8,20 @@ export interface Plushie {
   quantity?: number;
 }
 
-export interface PlushieSet {
+export type Plushie = TradeItem;
+export type Sticker = TradeItem;
+export type Artifact = TradeItem;
+
+export interface TradeItemSet {
   id: number;
   category: string;
   name: string;
   members: number[];
+  image: string;
 }
 
-export interface PlushieColumn {
+export interface TradeItemColumn {
   type: 'set' | 'orphans';
   setName: string;
-  cards: Plushie[];
+  cards: TradeItem[];
 }

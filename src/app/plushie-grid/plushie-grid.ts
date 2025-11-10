@@ -36,7 +36,7 @@
 
 // plushie-grid.component.ts
 import { Component, Input, OnInit } from '@angular/core';
-import { Plushie, PlushieColumn } from '../../models/plushie.model';
+import { TradeItem, TradeItemColumn } from '../../models/trade-item.model';
 import { PlushieCardComponent } from '../plushie-card/plushie-card';
 import { CommonModule } from '@angular/common';  // <-- import CommonModule
 
@@ -48,10 +48,10 @@ import { CommonModule } from '@angular/common';  // <-- import CommonModule
   imports: [PlushieCardComponent, CommonModule]
 })
 export class PlushieGridComponent{
-  @Input() plushies: { [category: string]: PlushieColumn[] } = {};
+  @Input() plushies: { [category: string]: TradeItemColumn[] } = {};
   @Input() filterText = '';
 
-  displayColumns: { [category: string]: PlushieColumn[] } = {};
+  displayColumns: { [category: string]: TradeItemColumn[] } = {};
   
 
   ngOnInit() {

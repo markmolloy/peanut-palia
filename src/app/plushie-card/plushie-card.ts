@@ -1,5 +1,5 @@
 import { Component, Input, OnInit } from '@angular/core';
-import { Plushie } from '../../models/plushie.model';
+import { TradeItem } from '../../models/trade-item.model';
 import { CommonModule } from '@angular/common';
 
 @Component({
@@ -10,7 +10,7 @@ import { CommonModule } from '@angular/common';
   styleUrl: './plushie-card.scss',
 })
 export class PlushieCardComponent implements OnInit {
-  @Input() plushie!: Plushie;
+  @Input() plushie!: TradeItem;
 
   ngOnInit() {
     if (this.plushie.quantity === undefined || this.plushie.quantity === null) {

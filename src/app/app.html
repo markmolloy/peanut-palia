@@ -3,13 +3,19 @@
 <main>
   <input 
     type="text" 
-    placeholder="Filter plushies..." 
+    placeholder="Filter items..." 
     [(ngModel)]="filterText" 
     class="filter-input"
   />
 
+  <select [(ngModel)]="currentType" (change)="switchItems(currentType)">
+    <option value="plushies">Plushies</option>
+    <option value="stickers">Stickers</option>
+    <option value="artifacts">Artifacts</option>
+  </select>
+
   <app-plushie-grid 
-    [plushies]="plushies" 
+    [plushies]="currentItems" 
     [filterText]="filterText"
   ></app-plushie-grid>
 </main>
