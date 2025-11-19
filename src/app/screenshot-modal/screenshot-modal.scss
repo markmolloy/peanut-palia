@@ -76,8 +76,10 @@
       max-width: 100px;
 
       img {
-        width: 64px;
+        width: auto;
         height: 64px;
+        max-width: 64px;
+        max-height: 64px;
         object-fit: contain;
         border-radius: 8px;
         margin-bottom: 0.25rem;
