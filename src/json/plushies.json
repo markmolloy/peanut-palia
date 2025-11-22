@@ -892,6 +892,109 @@
     "name": "Madrinas Fun Guy",
     "category": "Collabs",
     "image": "madrinasfunguy.webp"
+  },
+  {
+    "id": 157,
+    "name": "Snowman Plush",
+    "category": "Community Event",
+    "image": "snowmanplush.webp"
+  },
+  {
+    "id": 158,
+    "name": "Snowman Big Plush",
+    "category": "Community Event",
+    "image": "snowmanbigplush.webp"
+  },
+  {
+    "id": 159,
+    "name": "Snowman Bigger Plush",
+    "category": "Community Event",
+    "image": "snowmanbiggerplush.webp"
+  },
+  {
+    "id": 160,
+    "name": "Snowman Giant Plush",
+    "category": "Community Event",
+    "image": "snowmangiantplush.webp"
+  },
+  {
+    "id": 161,
+    "name": "Snowman Giga Plush",
+    "category": "Community Event",
+    "image": "snowmangigaplush.webp"
+  },
+  {
+    "id": 162,
+    "name": "Newton",
+    "category": "Potato Pods",
+    "image": "newtonthesmartypod.webp"
+  },
+  {
+    "id": 163,
+    "name": "Volta",
+    "category": "Potato Pods",
+    "image": "voltathesmartypod.webp"
+  },
+  {
+    "id": 164,
+    "name": "Kelvin",
+    "category": "Potato Pods",
+    "image": "kelvinthesmartypod.webp"
+  },
+  {
+    "id": 165,
+    "name": "Mendella",
+    "category": "Potato Pods",
+    "image": "mendellathesmartypod.webp"
+  },
+  {
+    "id": 166,
+    "name": "Oz",
+    "category": "Potato Pods",
+    "image": "ozthesmartypod.webp"
+  },
+  {
+    "id": 167,
+    "name": "Rosalind",
+    "category": "Potato Pods",
+    "image": "rosalindthesmartypod.webp"
+  },
+  {
+    "id": 168,
+    "name": "Lavo",
+    "category": "Potato Pods",
+    "image": "lavothesmartypod.webp"
+  },
+  {
+    "id": 169,
+    "name": "Darwin",
+    "category": "Potato Pods",
+    "image": "darwinthesmartypod.webp"
+  },
+  {
+    "id": 170,
+    "name": "Beatrix",
+    "category": "Potato Pods",
+    "image": "beatrixthesmartypod.webp"
+  },
+  {
+    "id": 171,
+    "name": "Obsidian Kitsuu",
+    "category": "Lunar Path",
+    "image": "obsidiankitsuuplush.webp"
+  },
+  {
+    "id": 172,
+    "name": "Caldera Kitsuu",
+    "category": "Lunar Path",
+    "image": "calderakitsuuplush.webp"
+  },
+  {
+    "id": 173,
+    "name": "Rainbow Kitsuu",
+    "category": "Lunar Path",
+    "image": "rainbowkitsuuplush.webp"
   }
+
   
 ]

@@ -278,5 +278,23 @@
       152
     ],
     "image": "set-23.webp"
+  },
+  {
+    "id": 24,
+    "order": 24,
+    "category": "Potato Pods",
+    "name": "Smarty Pods",
+    "members": [
+      162,
+      163,
+      164,
+      165,
+      166,
+      167,
+      168,
+      169,
+      170
+    ],
+    "image": "set-24.webp"
   }
 ]
