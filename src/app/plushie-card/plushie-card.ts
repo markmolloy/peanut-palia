@@ -34,4 +34,9 @@ export class PlushieCardComponent implements OnInit {
   decreaseQuantity() {
     if (this.plushie.quantity && this.plushie.quantity > 1) this.plushie.quantity--;
   }
+
+  onImageError(event: Event) {
+    const img = event.target as HTMLImageElement;
+    img.src = '/assets/images/default.webp';
+  }
 }

@@ -1,5 +1,8 @@
 <div class="plushie-card" [ngClass]="{'have': plushie.status === 'have', 'want': plushie.status === 'want'}">
-  <img [src]="'assets/images/' + plushie.image" alt="{{ plushie.name }}" />
+  <img  [src]="'assets/images/' + plushie.image"
+        alt="{{ plushie.name }}"
+        (error)="onImageError($event)"
+  />
   <div class="name">{{ plushie.name }}</div>
 
   <div class="controls">
