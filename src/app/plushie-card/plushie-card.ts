@@ -37,6 +37,6 @@ export class PlushieCardComponent implements OnInit {
 
   onImageError(event: Event) {
     const img = event.target as HTMLImageElement;
-    img.src = '/assets/images/default.webp';
+    img.src = '/assets/images/default.png';
   }
 }
