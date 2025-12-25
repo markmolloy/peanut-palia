@@ -897,31 +897,31 @@
     "id": 157,
     "name": "Snowman Plush",
     "category": "Community Event",
-    "image": "snowmanplush.webp"
+    "image": "snowman1.png"
   },
   {
     "id": 158,
     "name": "Snowman Big Plush",
     "category": "Community Event",
-    "image": "snowmanbigplush.webp"
+    "image": "snowman2.png"
   },
   {
     "id": 159,
     "name": "Snowman Bigger Plush",
     "category": "Community Event",
-    "image": "snowmanbiggerplush.webp"
+    "image": "snowman3.png"
   },
   {
     "id": 160,
     "name": "Snowman Giant Plush",
     "category": "Community Event",
-    "image": "snowmangiantplush.webp"
+    "image": "snowman4.png"
   },
   {
     "id": 161,
     "name": "Snowman Giga Plush",
     "category": "Community Event",
-    "image": "snowmangigaplush.webp"
+    "image": "snowman5.png"
   },
   {
     "id": 162,
@@ -981,19 +981,19 @@
     "id": 171,
     "name": "Obsidian Kitsuu",
     "category": "Lunar Path",
-    "image": "obsidiankitsuuplush.webp"
+    "image": "obsidian_kitsuu.png"
   },
   {
     "id": 172,
     "name": "Caldera Kitsuu",
     "category": "Lunar Path",
-    "image": "calderakitsuuplush.webp"
+    "image": "caldera_kitsuu.png"
   },
   {
     "id": 173,
     "name": "Rainbow Kitsuu",
     "category": "Lunar Path",
-    "image": "rainbowkitsuuplush.webp"
+    "image": "rainbow_kitsuu.png"
   }
 
   
