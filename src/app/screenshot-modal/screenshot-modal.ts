@@ -37,6 +37,11 @@ export class ScreenshotModal implements OnInit, OnDestroy {
     this.close.emit();
   }
 
+  onImageError(event: Event) {
+    const img = event.target as HTMLImageElement;
+    img.src = '/assets/images/default.png';
+  }
+
   async saveModal() {
     this.isSaving = true; // show spinner
     const modal = this.modalRef.nativeElement;

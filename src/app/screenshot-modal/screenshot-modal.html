@@ -12,7 +12,7 @@
   <h2>Want</h2>
   <div class="plushie-list">
     <div class="plushie-item" *ngFor="let p of wantPlushies">
-      <img [src]="'assets/images/' + p.image" [alt]="p.name" />
+      <img [src]="'assets/images/' + p.image" [alt]="p.name" (error)="onImageError($event)"/>
       <span class="quantity" *ngIf="p.quantity && p.quantity > 1">{{ p.quantity }}x</span>
       <p>{{ p.name }}</p>
     </div>
