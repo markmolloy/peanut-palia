@@ -994,6 +994,18 @@
     "name": "Rainbow Kitsuu",
     "category": "Lunar Path",
     "image": "rainbow_kitsuu.png"
+  },
+  {
+    "id": 174,
+    "name": "Li'l Sprout",
+    "category": "Community Event",
+    "image": "lil_sprout.webp"
+  },
+  {
+    "id": 175,
+    "name": "Fairy Mantis",
+    "category": "Bug Catching",
+    "image": "fairy_mantis.webp"
   }
 
   
